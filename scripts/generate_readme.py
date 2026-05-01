@@ -80,17 +80,29 @@ def render_entry(p: dict) -> str:
     url = p.get("url")
     tail = p.get("citation_tail", "")
 
-    title_part = f"[{title}]({url})" if url else title
     end_punct = "" if title.endswith(("?", "!")) else "."
-    line = f"- **{authors} ({year}).** {title_part}{end_punct}"
+    line = f"- **{authors} ({year}).** {title}{end_punct}"
     if tail:
         line += f" {tail}."
+    if url:
+        line += f" [[link]]({url})"
     return line
+
+
+def _sort_key(p: dict) -> tuple:
+    """Sort: real years (newest first) → non-int years → unparsed entries."""
+    if p.get("unparsed"):
+        return (2, 0, "")
+    year = p.get("year")
+    if isinstance(year, int):
+        return (0, -year, p.get("authors", "").lower())
+    return (1, 0, p.get("authors", "").lower())
 
 
 def render_category(cat: dict) -> str:
     out = [f"## {cat['name']}", ""]
-    for paper in cat["papers"]:
+    papers = sorted(cat["papers"], key=_sort_key)
+    for paper in papers:
         out.append(render_entry(paper))
     out.append("")
     return "\n".join(out)
