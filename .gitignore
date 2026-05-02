@@ -6,3 +6,4 @@ __pycache__/
 .vscode/
 .s2_cache.json
 link_backfill_report.md
+manual_edits.md

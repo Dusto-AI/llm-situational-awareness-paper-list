@@ -125,6 +125,109 @@ def assess(entry: dict, s2_paper: dict) -> tuple[int, dict]:
     }
 
 
+def write_manual_edits(
+    path: Path,
+    uncertain: list,
+    skipped: list,
+) -> None:
+    lines = [
+        "# Manual edits queue",
+        "",
+        "For each entry below, optionally fill in `url →`, `title →`, or "
+        "`authors →`.",
+        "",
+        "- Leave blank to keep current value",
+        "- Write `ok` after `url →` to accept the S2 suggestion (only where "
+        "shown)",
+        "- Write `skip` after `url →` to mark as intentionally without a link",
+        "",
+        "When done, save the file and tell Claude — your edits get ported "
+        "into `papers.yaml`.",
+        "",
+        "---",
+        "",
+        f"## Uncertain matches — S2 had a candidate ({len(uncertain)})",
+        "",
+        "These had 2/3 signal agreement. The candidate may or may not be the "
+        "right paper.",
+        "",
+    ]
+    by_cat: dict[str, list] = {}
+    for cat, entry, s2, url, signals in uncertain:
+        by_cat.setdefault(cat, []).append((entry, s2, url, signals))
+    for cat, items in by_cat.items():
+        lines.append(f"### {cat}")
+        lines.append("")
+        for entry, s2, url, signals in items:
+            lines.append(
+                f"- **{entry['authors']} ({entry['year']})** — {entry['title']}"
+            )
+            authors_str = ", ".join(
+                (a.get("name") or "") for a in (s2.get("authors") or [])[:4]
+            )
+            lines.append(
+                f"  - S2 candidate: \"{s2.get('title')}\" ({s2.get('year')}) — "
+                f"{authors_str}"
+            )
+            if url:
+                lines.append(f"  - S2 url: {url}")
+            sig_str = (
+                f"title_sim={signals['title_similarity']}, "
+                f"year={signals['year_match']}, "
+                f"author={signals['author_match']}"
+            )
+            lines.append(f"  - signals: {sig_str}")
+            lines.append("  url     → ")
+            lines.append("  title   → ")
+            lines.append("  authors → ")
+            lines.append("")
+        lines.append("")
+
+    lines += [
+        f"## Skipped — manual search needed ({len(skipped)})",
+        "",
+        "S2 returned nothing useful. Search Google Scholar / arXiv / DOI lookup.",
+        "",
+    ]
+    by_cat = {}
+    for cat, entry, reason in skipped:
+        by_cat.setdefault(cat, []).append((entry, reason))
+    for cat, items in by_cat.items():
+        lines.append(f"### {cat}")
+        lines.append("")
+        for entry, reason in items:
+            lines.append(
+                f"- **{entry['authors']} ({entry['year']})** — {entry['title']}"
+            )
+            lines.append(f"  - reason: {reason}")
+            lines.append("  url     → ")
+            lines.append("  title   → ")
+            lines.append("  authors → ")
+            lines.append("")
+        lines.append("")
+
+    lines += [
+        "## Other fixes — free-form (anything else)",
+        "",
+        "Use this for entries NOT listed above (e.g. the 41 auto-matched ones) "
+        "where you spotted something wrong. Format is loose — Claude will "
+        "interpret. Examples:",
+        "",
+        "```",
+        "Endsley 1995 — title should be \"Toward a Theory of Situation Awareness "
+        "in Dynamic Systems\" (capitalisation)",
+        "Berglund 2023 — replace url with arXiv direct: https://arxiv.org/abs/2309.00667",
+        "Phuong 2024 — wrong paper entirely, real one is at: <url>",
+        "```",
+        "",
+        "<!-- write your fixes below this line -->",
+        "",
+        "",
+    ]
+
+    path.write_text("\n".join(lines), encoding="utf-8")
+
+
 def write_report(
     path: Path,
     matched: list,
@@ -270,6 +373,7 @@ def main() -> int:
             )
 
     write_report(args.report, matched, uncertain, skipped)
+    write_manual_edits(Path("manual_edits.md"), uncertain, skipped)
 
     print()
     print(f"  matched (written): {len(matched)}")
