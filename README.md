@@ -10,7 +10,7 @@ Maintained alongside ongoing thesis work. Updated as new papers land.
 
 - **Scope.** Situational awareness as understood in two traditions: classical
   SA from human factors (Endsley and successors) and the more recent AI safety
-  framing (evaluation awareness, self-knowledge, scheming). Adjacent literatures
+  framing (evaluation awareness, and self-knowledge). Adjacent literatures
   — agentic memory, theory of mind, anthropomorphism, evaluation methodology —
   are included where they directly inform the SA question.
 - **Curation.** Selections are working notes from a thesis-in-progress, not an
