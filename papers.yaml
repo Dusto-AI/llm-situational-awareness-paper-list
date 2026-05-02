@@ -49,10 +49,14 @@ categories:
     year: 2004
     title: 'Trust in automation: Designing for appropriate reliance'
     citation_tail: '*Human Factors*, 46(1), 50-80'
+    url: https://doi.org/10.1518/hfes.46.1.50_30392
+    link_source: semantic_scholar
   - authors: Parasuraman, R., Sheridan, T. B., & Wickens, C. D.
     year: 2000
     title: A model for types and levels of human interaction with automation
     citation_tail: '*IEEE Transactions on Systems, Man, and Cybernetics*, 30(3), 286-297'
+    url: https://doi.org/10.1109/3468.844354
+    link_source: semantic_scholar
   - authors: Rastogi, C., et al.
     year: 2022
     title: Cognitive Biases in AI-Assisted Decision Making
@@ -70,16 +74,22 @@ categories:
     year: 2009
     title: '*Distributed Situation Awareness: Theory, Measurement and Application to Teamwork*'
     citation_tail: Ashgate
+    url: https://www.semanticscholar.org/paper/d31419a5e9254c34e2cae175f727c2c29a9a3187
+    link_source: semantic_scholar
   - authors: Sarter, N. B., & Woods, D. D.
     year: 1995
     title: How in the World Did We Ever Get into That Mode? Mode Error and Awareness in Supervisory Control
     citation_tail: '*Human Factors*, 37(1), 5-19'
     notes:
     - 'Note: Also Sarter & Woods (2017) chapter "Situation Awareness: A Critical But Ill-Defined Phenomenon" in Salas (Ed.) *Situational Awareness*'
+    url: https://doi.org/10.1518/001872095779049516
+    link_source: semantic_scholar
   - authors: Stanton, N. A., Stewart, R., Harris, D., et al.
     year: 2006
     title: 'Distributed situation awareness in dynamic systems: theoretical development and application of an ergonomics methodology'
     citation_tail: '*Ergonomics*, 49(12-13), 1288-1311'
+    url: https://doi.org/10.1080/00140130600612762
+    link_source: semantic_scholar
   - authors: Taylor, R. M.
     year: 1990
     title: 'Situational Awareness Rating Technique (SART): The development of a tool for aircrew systems design'
@@ -88,6 +98,8 @@ categories:
     year: 1994
     title: 'Situational Awareness: Papers and Annotated Bibliography'
     citation_tail: Armstrong Laboratory Technical Report
+    url: https://doi.org/10.21236/ada284752
+    link_source: semantic_scholar
 - name: AI Safety and SA
   papers:
   - authors: Balesni, M., et al.
@@ -148,6 +160,8 @@ categories:
     title: 'Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs'
     sections:
     - '2.2'
+    url: https://arxiv.org/abs/2407.04694
+    link_source: semantic_scholar
   - authors: Li, Y., & Xu, K.
     year: 2025
     title: 'AI Awareness: Self-awareness, situational awareness, and social awareness taxonomy'
@@ -161,6 +175,8 @@ categories:
     sections:
     - '2.2'
     - '7.1'
+    url: https://arxiv.org/abs/2412.04984
+    link_source: semantic_scholar
   - authors: Needham, J., Edkins, G., Pimpale, G., Bartsch, H., & Hobbhahn, M.
     year: 2025
     title: Large Language Models Often Know When They Are Being Evaluated
@@ -207,6 +223,8 @@ categories:
     citation_tail: ICLR 2026 Workshop
     sections:
     - '2.2'
+    url: https://arxiv.org/abs/2603.09200
+    link_source: semantic_scholar
   - authors: Sheshadri, A., et al.
     year: 2025
     title: Why Do Some LLMs Fake Alignment?
@@ -322,6 +340,8 @@ categories:
     title: Risk analysis techniques for governed LLM-based multi-agent systems
     citation_tail: '*arXiv preprint arXiv:2508.05687*'
     arxiv_id: '2508.05687'
+    url: https://arxiv.org/abs/2508.05687
+    link_source: semantic_scholar
 - name: LLM Capability Evaluation
   papers:
   - authors: Bogdan, O., et al.
@@ -331,6 +351,8 @@ categories:
     arxiv_id: '2506.19143'
     sections:
     - '4.4'
+    url: https://arxiv.org/abs/2506.19143
+    link_source: semantic_scholar
   - authors: D'Aliberti, J., et al.
     year: 2026
     title: The Illusion of Insight in Reasoning Language Models
@@ -352,12 +374,16 @@ categories:
     arxiv_id: '2506.11440'
     sections:
     - '4.3'
+    url: https://arxiv.org/abs/2506.11440
+    link_source: semantic_scholar
   - authors: Hagendorff, T., & Fabi, S.
     year: 2025
     title: 'Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models'
     sections:
     - '4.2'
     - '4.5'
+    url: https://arxiv.org/abs/2504.10615
+    link_source: semantic_scholar
   - authors: Kirichenko, P., et al.
     year: 2025
     title: 'AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions'
@@ -366,6 +392,8 @@ categories:
     sections:
     - '4.3'
     - '8.3'
+    url: https://arxiv.org/abs/2506.09038
+    link_source: semantic_scholar
   - authors: Li, B., & Andreas, J.
     year: 2025
     title: (How) Do Language Models Track State?
@@ -375,6 +403,8 @@ categories:
     - '2.2'
     - '2.3'
     - '4.5'
+    url: https://arxiv.org/abs/2503.02854
+    link_source: semantic_scholar
   - authors: Pan, L., & Wilson, R. C.
     year: 2025
     title: LLMs Think Too Fast
@@ -406,6 +436,8 @@ categories:
     title: Evidence for Limited Metacognition in LLMs
     citation_tail: '*arXiv preprint arXiv:2509.21545*'
     arxiv_id: '2509.21545'
+    url: https://arxiv.org/abs/2509.21545
+    link_source: semantic_scholar
   - authors: Betley, J., Bao, X., Soto, M., Sztyber-Betley, A., Chua, J., & Evans, O.
     year: 2025
     title: 'Tell me about yourself: LLMs are aware of their learned behaviors'
@@ -453,6 +485,8 @@ categories:
     - '2.2'
     - '2.3'
     - '4.5'
+    url: https://arxiv.org/abs/2505.13763
+    link_source: semantic_scholar
   - authors: Lu, S., & Lindsey, J.
     year: 2026
     title: The Assistant Axis
@@ -480,6 +514,8 @@ categories:
     title: Do Large Language Models Know How Much They Know?
     notes:
     - Self-knowledge limitations
+    url: https://arxiv.org/abs/2502.19573
+    link_source: semantic_scholar
   - authors: Qiao, S., et al.
     year: 2025
     title: 'KnowSelf: Agentic Knowledgeable Self-awareness'
@@ -546,6 +582,8 @@ categories:
     title: 'Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory'
     sections:
     - '5.1'
+    url: https://arxiv.org/abs/2504.19413
+    link_source: semantic_scholar
   - authors: Cross, L., Haber, N., et al.
     year: 2025
     title: 'Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks'
@@ -554,6 +592,8 @@ categories:
     - '5.1'
     - '5.2'
     - '6.1'
+    url: https://arxiv.org/abs/2407.07086
+    link_source: semantic_scholar
   - authors: Du Pan, K., et al.
     year: 2025
     title: 'Rethinking Memory in AI: Taxonomy, Operations, and Benchmarks'
@@ -591,12 +631,16 @@ categories:
     - '4.5'
     - '5.1'
     - '8.3'
+    url: https://arxiv.org/abs/2502.12110
+    link_source: semantic_scholar
   - authors: Yang, Z., et al.
     year: 2026
     title: 'PlugMem: Task-Agnostic Plugin Memory Module for LLM Agents'
     citation_tail: UIUC/Microsoft
     sections:
     - '5.1'
+    url: https://arxiv.org/abs/2603.03296
+    link_source: semantic_scholar
   - authors: Yu, X., & Wu, L.
     year: 2026
     title: 'Agentic Memory: Long and Short Term Memory for LLM Agents'
@@ -622,6 +666,8 @@ categories:
     sections:
     - '4.5'
     - '8.3'
+    url: https://arxiv.org/abs/2509.04664
+    link_source: semantic_scholar
   - authors: Kambhampati, S.
     year: various
     title: 'LLMs can''t plan: pattern matching on training data rather than genuine planning'
@@ -647,6 +693,8 @@ categories:
     sections:
     - '2.2'
     - '4.2'
+    url: https://arxiv.org/abs/2507.08218
+    link_source: semantic_scholar
   - authors: Xu, Z., & Kankanhalli, M.
     year: 2025
     title: 'Hallucination is Inevitable: An Innate Limitation of Large Language Models'
@@ -655,6 +703,8 @@ categories:
     - '4.5'
     - '5.1'
     - '8.3'
+    url: https://arxiv.org/abs/2401.11817
+    link_source: semantic_scholar
 - name: Anthropomorphism and Construct Transfer
   papers:
   - authors: Shah, H., & Varma, S.
@@ -677,6 +727,8 @@ categories:
     title: Self-Consuming Generative Models Go MAD
     citation_tail: '*NeurIPS 2023*. arXiv:2307.01850'
     arxiv_id: '2307.01850'
+    url: https://arxiv.org/abs/2307.01850
+    link_source: semantic_scholar
   - authors: Anon.
     year: 2024
     title: Language Models Can Articulate Implicit Goals
@@ -702,6 +754,8 @@ categories:
     - '6.2'
     - '8.3'
     - '8.4'
+    url: https://arxiv.org/abs/2506.12469
+    link_source: semantic_scholar
   - authors: Heitmann, S., et al.
     year: 2025
     title: 'Understanding AI Trajectories: Mapping the Limitations of Current LLMs'
@@ -720,6 +774,8 @@ categories:
     sections:
     - '6.1'
     - '6.2'
+    url: https://arxiv.org/abs/2602.24287
+    link_source: semantic_scholar
   - authors: Lin, X., et al.
     year: 2025
     title: 'LLM-based Agents Suffer from Hallucinations: A Survey'
@@ -727,6 +783,8 @@ categories:
     arxiv_id: '2509.18970'
     notes:
     - Hallucinatory accumulation across agent modules
+    url: https://arxiv.org/abs/2509.18970
+    link_source: semantic_scholar
   - authors: Luo, J., & Shah, S.
     year: 2025
     title: The More You Automate, the Less You See
@@ -741,15 +799,21 @@ categories:
     arxiv_id: '2601.04170'
     notes:
     - Single-author preprint, use cautiously
+    url: https://arxiv.org/abs/2601.04170
+    link_source: semantic_scholar
   - authors: Shumailov, I., Shumaylov, Z., Zhao, Y., Gal, Y., Papernot, N., & Anderson, R.
     year: 2024
     title: AI models collapse when trained on recursively generated data
     citation_tail: '*Nature*, 631, 755-759'
+    url: https://doi.org/10.1038/s41586-024-07566-y
+    link_source: semantic_scholar
   - authors: Zhang, M., Press, O., Merrill, W., Liu, A., & Smith, N. A.
     year: 2023
     title: How Language Model Hallucinations Can Snowball
     citation_tail: '*arXiv preprint arXiv:2305.13534*. ICML 2024'
     arxiv_id: '2305.13534'
+    url: https://arxiv.org/abs/2305.13534
+    link_source: semantic_scholar
 - name: Parking Lot (not yet integrated, may be useful)
   papers:
   - authors: Ahmed, N., et al.
@@ -767,6 +831,8 @@ categories:
     sections:
     - '4.3'
     - '5'
+    url: https://arxiv.org/abs/2410.13787
+    link_source: semantic_scholar
   - authors: Betley, J., Tan, D., et al.
     year: 2025
     title: 'Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs'
@@ -782,6 +848,8 @@ categories:
     arxiv_id: '2505.24539'
     sections:
     - '4.3'
+    url: https://arxiv.org/abs/2505.24539
+    link_source: semantic_scholar
   - authors: Comsa, I. M., & Shanahan, M.
     year: 2025
     title: Does It Make Sense to Speak of Introspection in Large Language Models?
@@ -790,11 +858,15 @@ categories:
     sections:
     - '4.3'
     - '8.2'
+    url: https://arxiv.org/abs/2506.05068
+    link_source: semantic_scholar
   - authors: Elenjical, T., Kavuri, S., & Varma, V.
     year: 2026
     title: 'Think2: Grounded Metacognitive Reasoning in Large Language Models'
     citation_tail: '*arXiv preprint arXiv:2602.18806*'
     arxiv_id: '2602.18806'
+    url: https://arxiv.org/abs/2602.18806
+    link_source: semantic_scholar
   - authors: Flavell, J. H.
     year: 1979
     title: Metacognition and cognitive monitoring
@@ -815,6 +887,8 @@ categories:
     arxiv_id: '2507.03120'
     sections:
     - '4.3'
+    url: https://arxiv.org/abs/2507.03120
+    link_source: semantic_scholar
   - authors: Mallen, A., et al.
     year: 2025
     title: Subversion Strategy Eval
@@ -832,6 +906,8 @@ categories:
     citation_tail: '*Findings of ACL 2023*, 13387-13434'
     sections:
     - '7.2'
+    url: https://arxiv.org/abs/2212.09251
+    link_source: semantic_scholar
   - authors: Sanneman, L., & Shah, J. A.
     year: 2022
     title: The Situation Awareness Framework for Explainable AI (SAFE-AI)
@@ -845,6 +921,8 @@ categories:
     arxiv_id: '2501.16496'
     sections:
     - '8.3'
+    url: https://arxiv.org/abs/2501.16496
+    link_source: semantic_scholar
   - authors: Shen, G., et al.
     year: 2025
     title: 'From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs'
@@ -852,6 +930,8 @@ categories:
     arxiv_id: '2510.05169'
     sections:
     - '4.3'
+    url: https://arxiv.org/abs/2510.05169
+    link_source: semantic_scholar
   - authors: Sühr, T., et al.
     year: 2025
     title: Stop evaluating AI with human tests
@@ -862,3 +942,5 @@ categories:
     title: Steering Evaluation-Aware Language Models to Act Like They Are Deployed
     citation_tail: '*arXiv preprint arXiv:2510.20487*'
     arxiv_id: '2510.20487'
+    url: https://arxiv.org/abs/2510.20487
+    link_source: semantic_scholar

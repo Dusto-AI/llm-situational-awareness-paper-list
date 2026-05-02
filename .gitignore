@@ -4,3 +4,5 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
+.s2_cache.json
+link_backfill_report.md
