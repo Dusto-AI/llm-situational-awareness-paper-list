@@ -25,7 +25,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contents
 
-- [Foundational SA and Human Factors](#foundational-sa-and-human-factors) — 15
+- [Foundational SA and Human Factors](#foundational-sa-and-human-factors) — 14
 - [AI Safety and SA](#ai-safety-and-sa) — 19
 - [Evaluation Methodology and Critique](#evaluation-methodology-and-critique) — 8
 - [Agentic AI, Failures, and Deployment](#agentic-ai-failures-and-deployment) — 6
@@ -54,7 +54,6 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Vidulich, M. A., et al. (1994).** Situational Awareness: Papers and Annotated Bibliography. Armstrong Laboratory Technical Report. [[link]](https://doi.org/10.21236/ada284752)
 - **R. M. Taylor (1990).** Situational Awareness Rating Technique (Sart): The Development of a Tool for Aircrew Systems Design. *AGARD Conference Proceedings No. 478*. [[link]](https://doi.org/10.4324/9781315087924-8)
 - **Endsley, M. R. (1988).** Situation awareness global assessment technique (SAGAT). *Proceedings of the IEEE 1988 National Aerospace and Electronics Conference*, 789-795. [[link]](https://doi.org/10.1109/NAECON.1988.195097)
-- *(reference note)* SA Recovery literature: see Endsley (2015); also PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC4753990/
 
 ## AI Safety and SA
 
@@ -197,7 +196,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Flavell, J. H. (1979).** Metacognition and cognitive monitoring. *American Psychologist*, 34(10), 906-911.
 - **Panickssery, A., Bowman, S. R., & Feng, S. (n.d.).** LLM Evaluators Recognize and Favor Their Own Generations.
 
-*This list contains 123 entries across 12 categories.*
+*This list contains 122 entries across 12 categories.*
 
 
 ## Contributing
@@ -212,4 +211,4 @@ corrections, or category suggestions.
 
 ---
 
-*Last updated 2026-05-04. Generated from the maintainer's working bibliography.*
+*Last updated 2026-05-05. Generated from the maintainer's working bibliography.*

@@ -11,9 +11,12 @@ appropriate category, following the format of existing entries:
 - authors: "LastName, F. M., & Other, A."
   year: 2025
   title: "The exact paper title"
-  venue: "Journal or Conference Name"
+  citation_tail: "Journal or Conference Name, vol(issue), pages."
   url: "https://doi.org/..."
 ```
+
+`citation_tail` is the trailing portion of the citation after authors/year/title
+— typically the venue plus volume/issue/pages.
 
 If you're unsure which category fits, open an issue instead and we'll discuss.
 

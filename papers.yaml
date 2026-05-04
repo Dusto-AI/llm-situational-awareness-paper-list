@@ -71,11 +71,6 @@ categories:
     - '7'
     url: https://arxiv.org/abs/2010.07938
     link_source: manual
-  - unparsed: true
-    raw: 'SA Recovery literature: see Endsley (2015); also PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC4753990/'
-    urls:
-    - https://pmc.ncbi.nlm.nih.gov/articles/PMC4753990/
-    notes: []
   - authors: Salmon, P. M., Stanton, N. A., Walker, G. H., & Jenkins, D. P.
     year: 2009
     title: '*Distributed Situation Awareness: Theory, Measurement and Application to Teamwork*'
