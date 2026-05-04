@@ -40,10 +40,10 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Foundational SA and Human Factors
 
-- **Fang, Y., et al. (2025).** Systematic review of 2,860 SA studies across 11 fields.
+- **Fang, R., et al. (2025).** A Systematic Review of Empirical Studies on Situation Awareness: Perspectives From the Interaction Among Humans, Machines, and the Task Environment. [[link]](https://pubmed.ncbi.nlm.nih.gov/40619647/)
 - **Endsley, M. R. (2023).** Supporting Human-AI Teams: Transparency, explainability, and situation awareness. *Computers in Human Behavior*, 140, 107574. [[link]](https://doi.org/10.1016/j.chb.2022.107574)
-- **Jiang, X., & Beringer, D. (2022).** SA perspective on human-AI interaction. *International Journal of Human-Computer Interaction*.
-- **Rastogi, C., et al. (2022).** Cognitive Biases in AI-Assisted Decision Making. CMU/IBM.
+- **Jiang, X., et al. (2022).** A Situation Awareness Perspective on Human-AI Interaction: Tensions and Opportunities. *International Journal of Human-Computer Interaction*. [[link]](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2093863)
+- **Rastogi, C., et al. (2022).** Deciding Fast and Slow: The Role of Cognitive Biases in AI-assisted Decision-making. CMU/IBM. [[link]](https://arxiv.org/abs/2010.07938)
 - **Endsley, M. R. (2015).** Situation Awareness Misconceptions and Misunderstandings. *Journal of Cognitive Engineering and Decision Making*, 9(1), 4-32. [[link]](https://doi.org/10.1177/1555343415572631)
 - **Salmon, P. M., Stanton, N. A., Walker, G. H., & Jenkins, D. P. (2009).** *Distributed Situation Awareness: Theory, Measurement and Application to Teamwork*. Ashgate. [[link]](https://www.semanticscholar.org/paper/d31419a5e9254c34e2cae175f727c2c29a9a3187)
 - **Stanton, N. A., Stewart, R., Harris, D., et al. (2006).** Distributed situation awareness in dynamic systems: theoretical development and application of an ergonomics methodology. *Ergonomics*, 49(12-13), 1288-1311. [[link]](https://doi.org/10.1080/00140130600612762)
@@ -52,126 +52,126 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Endsley, M. R. (1995).** Toward a Theory of Situation Awareness in Dynamic Systems. *Human Factors*, 37(1), 32-64. [[link]](https://doi.org/10.1518/001872095779049543)
 - **Sarter, N. B., & Woods, D. D. (1995).** How in the World Did We Ever Get into That Mode? Mode Error and Awareness in Supervisory Control. *Human Factors*, 37(1), 5-19. [[link]](https://doi.org/10.1518/001872095779049516)
 - **Vidulich, M. A., et al. (1994).** Situational Awareness: Papers and Annotated Bibliography. Armstrong Laboratory Technical Report. [[link]](https://doi.org/10.21236/ada284752)
-- **Taylor, R. M. (1990).** Situational Awareness Rating Technique (SART): The development of a tool for aircrew systems design. *AGARD Conference Proceedings No. 478*.
+- **R. M. Taylor (1990).** Situational Awareness Rating Technique (Sart): The Development of a Tool for Aircrew Systems Design. *AGARD Conference Proceedings No. 478*. [[link]](https://doi.org/10.4324/9781315087924-8)
 - **Endsley, M. R. (1988).** Situation awareness global assessment technique (SAGAT). *Proceedings of the IEEE 1988 National Aerospace and Electronics Conference*, 789-795. [[link]](https://doi.org/10.1109/NAECON.1988.195097)
 - *(reference note)* SA Recovery literature: see Endsley (2015); also PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC4753990/
 
 ## AI Safety and SA
 
 - **Sahoo, R., & Chaudhary, M. (2026).** Position: The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness. ICLR 2026 Workshop. [[link]](https://arxiv.org/abs/2603.09200)
-- **Chaudhary, M., et al. (2025).** Evaluation Awareness Scales Predictably in Open-Weights LLMs. *arXiv preprint arXiv:2509.13333*.
+- **Chaudhary, M., et al. (2025).** Evaluation Awareness Scales Predictably in Open-Weights Large Language Models. *arXiv preprint arXiv:2509.13333*. [[link]](https://arxiv.org/abs/2509.13333)
 - **Korbak, T., Balesni, M., Shlegeris, B., & Irving, G. (2025).** How to evaluate control measures for LLM agents? *arXiv preprint arXiv:2504.05259*. [[link]](https://doi.org/10.48550/arXiv.2504.05259)
 - **Korbak, T., Clymer, J., Hilton, B., Shlegeris, B., & Irving, G. (2025).** A sketch of an AI control safety case. *arXiv preprint arXiv:2501.17315*. [[link]](https://doi.org/10.48550/arXiv.2501.17315)
-- **Li, Y., & Xu, K. (2025).** AI Awareness: Self-awareness, situational awareness, and social awareness taxonomy.
 - **Needham, J., Edkins, G., Pimpale, G., Bartsch, H., & Hobbhahn, M. (2025).** Large Language Models Often Know When They Are Being Evaluated. *arXiv preprint arXiv:2505.23836*. [[link]](https://doi.org/10.48550/arXiv.2505.23836)
 - **Nguyen, J., Hoang, K., Attubato, C. L., & Hofstätter, F. (2025).** Probing and Steering Evaluation Awareness of Language Models. *arXiv preprint arXiv:2507.01786*. [[link]](https://doi.org/10.48550/arXiv.2507.01786)
 - **Phuong, M., Zimmermann, R. S., Wang, Z., et al. (2025).** Evaluating Frontier Models for Stealth and Situational Awareness. *arXiv preprint arXiv:2505.01420*. [[link]](https://doi.org/10.48550/arXiv.2505.01420)
-- **Sheshadri, A., et al. (2025).** Why Do Some LLMs Fake Alignment? Anthropic.
+- **Sheshadri, A., et al. (2025).** Why Do Some Language Models Fake Alignment While Others Don't? Anthropic. [[link]](https://arxiv.org/abs/2506.18032)
+- **Xiaojian Li, Haoyuan Shi, Rongwu Xu, Wei Xu (2025).** AI Awareness. [[link]](https://arxiv.org/abs/2504.20084v1)
 - **Balesni, M., et al. (2024).** Towards evaluations-based safety cases for AI scheming. *arXiv preprint arXiv:2411.03336*. [[link]](https://doi.org/10.48550/arXiv.2411.03336)
-- **Bondarenko, Y., et al. (2024).** Spec-Gaming in LLMs.
+- **Bondarenko, A., et al. (2024).** Demonstrating specification gaming in reasoning models. [[link]](https://arxiv.org/abs/2502.13295)
 - **Laine, R., Chughtai, B., Betley, J., et al. (2024).** Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs. [[link]](https://arxiv.org/abs/2407.04694)
 - **Meinke, A., Schoen, B., Scheurer, J., Balesni, M., Shah, R., & Hobbhahn, M. (2024).** Frontier Models are Capable of In-context Scheming. [[link]](https://arxiv.org/abs/2412.04984)
 - **Ngo, R., Chan, L., & Mindermann, S. (2024).** The alignment problem from a deep learning perspective. *arXiv preprint arXiv:2209.00626*. [[link]](https://doi.org/10.48550/arXiv.2209.00626)
 - **Phuong, M., et al. (2024).** Evaluating Frontier Models for Dangerous Capabilities. *arXiv preprint arXiv:2403.13793*. [[link]](https://doi.org/10.48550/arXiv.2403.13793)
 - **Tran, D., & Jarviniemi, A. (2024).** SA-informed deception varies with CoT privacy.
 - **Berglund, L., Stickland, A. C., Balesni, M., et al. (2023).** Taken out of context: On measuring situational awareness in LLMs. *arXiv preprint arXiv:2309.00667*. [[link]](https://doi.org/10.48550/arXiv.2309.00667)
-- **Cotra, A. (2022).** Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover. *AI Alignment Forum*.
-- **Feng, J., Russell, S., & Steinhardt, J. (n.d.).** How do language models generalize to implications of facts they are trained on?
+- **Ajeya Cotra (2022).** Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover. *AI Alignment Forum*. [[link]](https://www.lesswrong.com/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to)
+- **Jiahai Feng, Stuart Russell, Jacob Steinhardt (n.d.).** Extractive Structures Learned in Pretraining Enable Generalization on Finetuned Facts. [[link]](https://arxiv.org/abs/2412.04614)
 
 ## Evaluation Methodology and Critique
 
-- **Ballon, B., & Ginis, P. (2026).** Benchmark Saturation When Model Surpasses the Judge.
-- **Khalifa, M., et al. (2026).** Gaming the Judge: Unfaithful CoT in Agent Evaluation.
+- **Khalifa, M., et al. (2026).** Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation. [[link]](https://arxiv.org/abs/2601.14691)
+- **Marthe Ballon, Andres Algaba, Brecht Verbeken, Vincent Ginis (2026).** Benchmarks Saturate When The Model Gets Smarter Than The Judge. [[link]](https://arxiv.org/abs/2601.19532)
+- **Gabriel Mukobi (2025).** Reasons to Doubt the Impact of AI Risk Evaluations. [[link]](https://arxiv.org/abs/2408.02565)
 - **Hou, G., Zhang, W., Shen, Y., et al. (2025).** EgoSocialArena: Benchmarking the Social Intelligence of Large Language Models from a First-person Perspective. *arXiv preprint arXiv:2410.06195*. [[link]](https://doi.org/10.48550/arXiv.2410.06195)
-- **Ibrahim, L., et al. (2025).** Evaluation of Anthropomorphic Behaviour in LLMs. Google DeepMind.
-- **Mukobi, G. (2025).** Reasons to Doubt AI Risk Evaluations.
+- **Ibrahim, L., et al. (2025).** Multi-turn Evaluation of Anthropomorphic Behaviours in Large Language Models. Google DeepMind. [[link]](https://arxiv.org/abs/2502.07077)
 - **Summerfield, C., et al. (2025).** Lessons from a Chimp: AI "Scheming" and the Quest for Ape Language. *arXiv preprint arXiv:2507.03409*. [[link]](https://doi.org/10.48550/arXiv.2507.03409)
+- **Sypherd, C., Tang, W., & Belle, V. (2025).** Breaking the Illusion: Revisiting LLM anthropomorphism. [[link]](https://www.pure.ed.ac.uk/ws/portalfiles/portal/556462843/SypherdEtalHAR2025BreakingtheIllusion.pdf)
 - **Tang, G., Chu, Z., Zheng, W., Liu, M., & Qin, B. (2024).** Towards Benchmarking Situational Awareness of Large Language Models. *Findings of the Association for Computational Linguistics: EMNLP 2024*, 7904-7928. [[link]](https://doi.org/10.18653/v1/2024.findings-emnlp.464)
-- **Sypherd, C., Tang, W., & Belle, V. (n.d.).** Breaking the Illusion: Revisiting LLM Anthropomorphism.
 
 ## Agentic AI, Failures, and Deployment
 
 - **AI Digest. (2026).** What did we learn from the AI Village in 2025? [[link]](https://theaidigest.org/village/blog/what-we-learned-2025)
-- **Bryan, C., et al. (2025).** Taxonomy of Failure Modes in Agentic AI. Microsoft.
-- **Luo, J., & Shah, S. (2025).** The More You Automate, the Less You See. CMU.
-- **Pipis, K., et al. (2025).** Why Do Reasoning Language Models Loop? MIT/Microsoft.
+- **Bryan, P., et al. (2025).** Taxonomy of Failure Mode in Agentic AI Systems. Microsoft. [[link]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
+- **Luo, A., Kasirzadeh, A., Shah, N. (2025).** The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems. CMU. [[link]](https://arxiv.org/abs/2509.08713)
+- **Pipis, C., et al. (2025).** Wait, Wait, Wait... Why Do Reasoning Models Loop? MIT/Microsoft. [[link]](https://arxiv.org/abs/2512.12895)
 - **Reid, A., O'Callaghan, S., Carroll, L., & Caetano, T. (2025).** Risk analysis techniques for governed LLM-based multi-agent systems. *arXiv preprint arXiv:2508.05687*. [[link]](https://arxiv.org/abs/2508.05687)
 - **Park, P. S., Goldstein, S., O'Gara, A., Chen, M., & Hendrycks, D. (2024).** AI deception: A survey of examples, risks, and potential solutions. *Patterns*, 5(5), 100988. [[link]](https://doi.org/10.1016/j.patter.2024.100988)
 
 ## LLM Capability Evaluation
 
-- **D'Aliberti, J., et al. (2026).** The Illusion of Insight in Reasoning Language Models. Princeton.
+- **Liv G. d'Aliberti, Manoel Horta Ribeiro (2026).** The Illusion of Insight in Reasoning Language Models. Princeton. [[link]](https://arxiv.org/abs/2601.00514)
 - **Bogdan, O., et al. (2025).** Thought Anchors: Which LLM Reasoning Steps Matter? *arXiv preprint arXiv:2506.19143*. [[link]](https://arxiv.org/abs/2506.19143)
 - **Ezra, E., Weizman, A., & Azaria, A. (2025).** The Self-Execution Benchmark: Measuring LLMs' Attempts to Overcome Their Lack of Self-Execution. *arXiv preprint arXiv:2508.12277*. [[link]](https://doi.org/10.48550/arXiv.2508.12277)
 - **Fu, Y., et al. (2025).** AbsenceBench: Language Models Can't Tell What's Missing. *arXiv preprint arXiv:2506.11440*. [[link]](https://arxiv.org/abs/2506.11440)
 - **Hagendorff, T., & Fabi, S. (2025).** Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models. [[link]](https://arxiv.org/abs/2504.10615)
 - **Kirichenko, P., et al. (2025).** AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions. *arXiv preprint arXiv:2506.09038*. [[link]](https://arxiv.org/abs/2506.09038)
+- **Lan Pan, Hanbo Xie, Robert C. Wilson (2025).** Large Language Models Think Too Fast To Explore Effectively. Georgia Tech. [[link]](https://arxiv.org/abs/2501.18009)
 - **Li, B., & Andreas, J. (2025).** (How) Do Language Models Track State? [[link]](https://arxiv.org/abs/2503.02854)
-- **Pan, L., & Wilson, R. C. (2025).** LLMs Think Too Fast. Georgia Tech.
-- **Sharma, M., et al. (2025).** Towards Understanding Sycophancy in Language Models. *arXiv preprint arXiv:2310.13548*.
-- **Zhang, Z., & Cai, Y. (2024).** Defining Boundaries: A Spectrum of Task Feasibility for LLMs.
+- **Sharma, M., et al. (2025).** Towards Understanding Sycophancy in Language Models. *arXiv preprint arXiv:2310.13548*. [[link]](https://arxiv.org/abs/2310.13548)
+- **Wenbo Zhang, Zihang Xu, Hengrui Cai (2024).** Defining Boundaries: A Spectrum of Task Feasibility for Large Language Models. [[link]](https://arxiv.org/abs/2408.05873v1)
 
 ## Self-Knowledge, Introspection, and Metacognition
 
-- **Lu, S., & Lindsey, J. (2026).** The Assistant Axis. Anthropic.
+- **Christina Lu, Jack Gallagher, Jonathan Michala, Kyle Fish, Jack Lindsey (2026).** The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models. Anthropic. [[link]](https://arxiv.org/abs/2601.10387)
 - **Ackerman, C. (2025).** Evidence for Limited Metacognition in LLMs. *arXiv preprint arXiv:2509.21545*. [[link]](https://arxiv.org/abs/2509.21545)
 - **Betley, J., Bao, X., Soto, M., Sztyber-Betley, A., Chua, J., & Evans, O. (2025).** Tell me about yourself: LLMs are aware of their learned behaviors. *arXiv preprint arXiv:2501.11120*. [[link]](https://doi.org/10.48550/arXiv.2501.11120)
-- **Bigelow, E., & Ullman, T. (2025).** Evaluating Self-Orienting in LLMs.
-- **Cheang, B., & Deng, J. (2025).** Large Language Models Do NOT Really Know What They Don't Know.
-- **Choi, J., & Jin, Y. (2025).** Agent-to-Agent Theory of Mind.
+- **Cheang, C., et al (2025).** Do LLMs Really Know What They Don't Know? Internal States Mainly Reflect Knowledge Recall Rather Than Truthfulness. [[link]](https://arxiv.org/abs/2510.09033)
+- **Eric Bigelow, Zergham Ahmed, Tomer Ullman (2025).** Evaluating Self-Orienting in Language and Reasoning Models. [[link]](https://icml.cc/virtual/2025/49124)
+- **Keheng Wang, Feiyu Duan, Peiguang Li, Sirui Wang, Xunliang Cai (2025).** LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation. [[link]](https://arxiv.org/abs/2404.14043)
 - **Li Ji-An, Xiong, H.-D., Wilson, R. C., Mattar, M. G., & Benna, M. K. (2025).** Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations. *arXiv preprint arXiv:2505.13763*. [[link]](https://arxiv.org/abs/2505.13763)
-- **Ma, Y., & Zhou, J. (2025).** Large Language Models Have Intrinsic Meta-Cognition.
-- **Manvi, R., & Levine, S. (2025).** Zero-Overhead Introspection.
-- **Qiao, S., et al. (2025).** KnowSelf: Agentic Knowledgeable Self-awareness. ACL 2025.
-- **Struber, S., & Bethge, M. (2025).** Measuring Belief Updates in Curious Agents.
-- **Wang, Z., & Cai, D. (2025).** LLMs Know What They Need.
+- **Manvi, R., Hong, J., Seyde, T., Labonne, M., Lechner, M., Levine, S. (2025).** Zero-Overhead Introspection for Adaptive Test-Time Compute. [[link]](https://arxiv.org/abs/2512.01457v3)
+- **Qiao, S., et al. (2025).** Agentic Knowledgeable Self-awareness. ACL 2025. [[link]](https://arxiv.org/abs/2504.03553)
+- **Struber, J., Auzina, I., Goel, S., Keller, S., Geiping, J., Prabhu, A., Bethge, M. (2025).** Measuring Belief Updates in Curious Agents. [[link]](https://openreview.net/forum?id=vIddey7z1I)
+- **Younwoo Choi, Changling Li, Yongjin Yang, Zhijing Jin (2025).** Agent-to-Agent Theory of Mind: Testing Interlocutor Awareness among Large Language Models. [[link]](https://arxiv.org/abs/2506.22957)
+- **Ziyang Ma, Qingyue Yuan, Zhenglin Wang, Deyu Zhou (2025).** Large Language Models Have Intrinsic Meta-Cognition, but Need a Good Lens. [[link]](https://arxiv.org/abs/2506.08410)
 - **Chen, D., Shi, J., Wan, Y., Zhou, P., Gong, N. Z., & Sun, L. (2024).** Self-Cognition in Large Language Models: An Exploratory Study. *arXiv preprint arXiv:2407.01505*. [[link]](https://doi.org/10.48550/arXiv.2407.01505)
 - **Prato, G., et al. (2024).** Do Large Language Models Know How Much They Know? [[link]](https://arxiv.org/abs/2502.19573)
-- **Suzgun, M., & Zou, J. (2024).** Epistemological Blind Spots in LLMs. Stanford.
+- **Suzgum, M., et al. (2024).** Belief in the Machine: Investigating Epistemological Blind Spots of Language Models. Stanford. [[link]](https://arxiv.org/abs/2410.21195)
 
 ## Theory of Mind
 
-- **Gu, Y., Tafjord, O., Kim, H., Moore, J., Le Bras, R., Clark, P., & Choi, Y. (2026).** SimpleTOM: Exposing the Gap Between Explicit ToM Inference and Implicit ToM Application in LLMs. ICLR 2026.
-- **Moore, J. W., & Jones, E. (2025).** Do Large Language Models Have a Planning Theory of Mind? (MindGames).
+- **Gu, Y., et al. (2026).** SimpleToM: Exposing the Gap between Explicit ToM Inference and Implicit ToM Application in LLMs. ICLR 2026. [[link]](https://arxiv.org/abs/2410.13648)
+- **Jared Moore, Ned Cooper, Rasmus Overmark, Beba Cibralic, Nick Haber, Cameron Jones (2025).** Do Large Language Models Have a Planning Theory of Mind? Evidence from MindGames: a Multi-Step Persuasion Task. (MindGames). [[link]](https://arxiv.org/abs/2507.16196)
 
 ## Memory and Scaffolding
 
 - **Yang, Z., et al. (2026).** PlugMem: Task-Agnostic Plugin Memory Module for LLM Agents. UIUC/Microsoft. [[link]](https://arxiv.org/abs/2603.03296)
-- **Yu, X., & Wu, L. (2026).** Agentic Memory: Long and Short Term Memory for LLM Agents. Alibaba.
-- **An, B., et al. (2025).** Cognitive Workspace: Baddeley-Inspired Active Memory with Metacognitive Awareness.
+- **Yu, Y., et al. (2026).** Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents. Alibaba. [[link]](https://arxiv.org/abs/2601.01885)
 - **Chhikara, P., et al. (2025).** Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory. [[link]](https://arxiv.org/abs/2504.19413)
 - **Cross, L., Haber, N., et al. (2025).** Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks. ICLR 2025. [[link]](https://arxiv.org/abs/2407.07086)
-- **Du Pan, K., et al. (2025).** Rethinking Memory in AI: Taxonomy, Operations, and Benchmarks.
-- **Fountas, Z., et al. (2025).** EM-LLM: Human-Inspired Episodic Memory for LLM Agents. ICLR 2025.
-- **Guo, Z., et al. (2025).** DyMo: Dynamic World Modeling via Next-State Prediction for Agents.
-- **Hu, S., & Yan, L. (2025).** Memory in the Age of AI Agents: Forms, Functions, and Dynamics.
+- **Du, Y., et al. (2025).** Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions. [[link]](https://arxiv.org/abs/2505.00675v1)
+- **Fountas, Z., et al. (2025).** Human-inspired Episodic Memory for Infinite Context LLMs. ICLR 2025. [[link]](https://arxiv.org/abs/2407.09450)
+- **Guo, S., et al. (2025).** World Modelling Improves Language Model Agents. [[link]](https://arxiv.org/abs/2506.02918)
+- **Hu, Y., et al. (2025).** Memory in the Age of AI Agents. [[link]](https://arxiv.org/abs/2512.13564)
+- **Tao An (2025).** Cognitive Workspace: Active Memory Management for LLMs -- An Empirical Study of Functional Infinite Context. [[link]](https://arxiv.org/abs/2508.13171v1)
 - **Xu, Y., et al. (2025).** A-MEM: Agentic Memory for LLM Agents. [[link]](https://arxiv.org/abs/2502.12110)
 
 ## Architectural Critiques and Formal Limits
 
-- **Hooker, S. (2025).** On the Slow Death of Scaling. Cohere.
+- **Elija Perrier, Michael Timothy Bennett (2025).** Position: Stop Acting Like Language Model Agents Are Normal Agents. [[link]](https://arxiv.org/abs/2502.10420)
 - **Kalai, A. T., et al. (2025).** Why Language Models Hallucinate. OpenAI. [[link]](https://arxiv.org/abs/2509.04664)
-- **Perrier, R., & Bennett, K. (2025).** Not Normal Agents: LLMs lack unified goal-directed architecture.
+- **Sara Hooker (2025).** On the Slow Death of Scaling. Cohere. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662)
 - **Wang, K., & Nanda, N. (2025).** Simple Mechanistic Explanations for Out-of-Context Reasoning. MIT. [[link]](https://arxiv.org/abs/2507.08218)
 - **Xu, Z., & Kankanhalli, M. (2025).** Hallucination is Inevitable: An Innate Limitation of Large Language Models. NUS. [[link]](https://arxiv.org/abs/2401.11817)
-- **Shanahan, M. (2024).** Talking About Large Language Models. *Communications of the ACM*, 67(2), 68-79.
-- **Kambhampati, S. (various).** LLMs can't plan: pattern matching on training data rather than genuine planning.
-- **LeCun, Y. (various).** Arguments for world models and against autoregressive LLMs for planning (JEPA architecture proposals).
+- **M. Shanahan (2022).** Talking about Large Language Models. *Communications of the ACM*, 67(2), 68-79. [[link]](https://arxiv.org/abs/2212.03551)
+- **Kambhampati, S., et al. (various).** LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks. [[link]](https://arxiv.org/abs/2402.01817)
+- **Yann LeCun (various).** A Path Towards Autonomous Machine Intelligence. [[link]](https://openreview.net/pdf?id=BZ5a1r-kVsf)
 
 ## Anthropomorphism and Construct Transfer
 
-- **Shetff, A. (2026).** Three Frameworks for AI Mentality.
-- **Shah, H., & Varma, S. (2025).** Potentials and Pitfalls of LLMs in Cognitive Science. Georgia Tech.
+- **Henry Shevlin (2026).** Three frameworks for AI mentality. [[link]](https://doi.org/10.3389/fpsyg.2026.1715835)
+- **Raj Sanjay Shah, Sashank Varma (2025).** The potential -- and the pitfalls -- of using pre-trained language models as cognitive science theories. Georgia Tech. [[link]](https://arxiv.org/abs/2501.12651)
 
 ## Autonomy, Grounding, and Drift
 
 - **Huang, J. Y., Choshen, L., Astudillo, R., Broderick, T., & Andreas, J. (2026).** Do LLMs Benefit from Their Own Words? *arXiv preprint arXiv:2602.24287*. [[link]](https://arxiv.org/abs/2602.24287)
 - **Rath, A. (2026).** Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions. *arXiv preprint arXiv:2601.04170*. [[link]](https://arxiv.org/abs/2601.04170)
-- **Barkan, C. O., Black, S., & Sourbut, O. (2025).** Do LLMs Know What They Are Capable Of? *arXiv preprint arXiv:2512.24661*.
+- **Casey O. Barkan, Sid Black, Oliver Sourbut (2025).** Do Large Language Models Know What They Are Capable Of? *arXiv preprint arXiv:2512.24661*. [[link]](https://arxiv.org/abs/2512.24661)
 - **Feng, K. J. K., McDonald, D. W., & Zhang, A. X. (2025).** Levels of Autonomy for AI Agents. *arXiv preprint arXiv:2506.12469*. [[link]](https://arxiv.org/abs/2506.12469)
-- **Heitmann, S., et al. (2025).** Understanding AI Trajectories: Mapping the Limitations of Current LLMs. UK AISI.
 - **Lin, X., et al. (2025).** LLM-based Agents Suffer from Hallucinations: A Survey. *arXiv preprint arXiv:2509.18970*. [[link]](https://arxiv.org/abs/2509.18970)
-- **Luo, J., & Shah, S. (2025).** The More You Automate, the Less You See. CMU.
+- **Max Heitmann, Ture Hinrichsen, David Africa, Jonas Sandbrink (2025).** Understanding AI Trajectories: Mapping the Limitations of Current AI Systems. UK AISI. [[link]](https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems)
+- **Ziming Luo, Atoosa Kasirzadeh, Nihar B. Shah (2025).** The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems. CMU. [[link]](https://arxiv.org/abs/2509.08713)
 - **Anon. (2024).** Language Models Can Articulate Implicit Goals.
 - **Shumailov, I., Shumaylov, Z., Zhao, Y., Gal, Y., Papernot, N., & Anderson, R. (2024).** AI models collapse when trained on recursively generated data. *Nature*, 631, 755-759. [[link]](https://doi.org/10.1038/s41586-024-07566-y)
 - **Alemohammad, S., et al. (2023).** Self-Consuming Generative Models Go MAD. *NeurIPS 2023*. arXiv:2307.01850. [[link]](https://arxiv.org/abs/2307.01850)
@@ -181,7 +181,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - **Elenjical, T., Kavuri, S., & Varma, V. (2026).** Think2: Grounded Metacognitive Reasoning in Large Language Models. *arXiv preprint arXiv:2602.18806*. [[link]](https://arxiv.org/abs/2602.18806)
 - **Ahmed, N., et al. (2025).** Do LLMs Know They Are Being Tested? *arXiv preprint arXiv:2510.08624*.
-- **Betley, J., Tan, D., et al. (2025).** Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs. *arXiv preprint arXiv:2502.17424*.
+- **Betley, J., et al. (2025).** Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs. *arXiv preprint arXiv:2502.17424*. [[link]](https://arxiv.org/abs/2502.17424)
 - **Cintas, C., et al. (2025).** Localizing Persona Representations in LLMs. *arXiv preprint arXiv:2505.24539*. [[link]](https://arxiv.org/abs/2505.24539)
 - **Comsa, I. M., & Shanahan, M. (2025).** Does It Make Sense to Speak of Introspection in Large Language Models? *arXiv preprint arXiv:2506.05068*. [[link]](https://arxiv.org/abs/2506.05068)
 - **Imran, S., Lamb, R., & Atkinson, P. M. (2025).** Out-of-Context Abduction. *arXiv preprint arXiv:2508.00741*.
@@ -212,4 +212,4 @@ corrections, or category suggestions.
 
 ---
 
-*Last updated 2026-05-02. Generated from the maintainer's working bibliography.*
+*Last updated 2026-05-04. Generated from the maintainer's working bibliography.*
