@@ -26,16 +26,16 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Contents
 
 - [Foundational SA and Human Factors](#foundational-sa-and-human-factors) — 14
-- [AI Safety and SA](#ai-safety-and-sa) — 19
+- [AI Safety and SA](#ai-safety-and-sa) — 18
 - [Evaluation Methodology and Critique](#evaluation-methodology-and-critique) — 8
-- [Agentic AI, Failures, and Deployment](#agentic-ai-failures-and-deployment) — 6
+- [Agentic AI, Failures, and Deployment](#agentic-ai-failures-and-deployment) — 5
 - [LLM Capability Evaluation](#llm-capability-evaluation) — 10
 - [Self-Knowledge, Introspection, and Metacognition](#self-knowledge-introspection-and-metacognition) — 15
 - [Theory of Mind](#theory-of-mind) — 2
 - [Memory and Scaffolding](#memory-and-scaffolding) — 10
 - [Architectural Critiques and Formal Limits](#architectural-critiques-and-formal-limits) — 8
 - [Anthropomorphism and Construct Transfer](#anthropomorphism-and-construct-transfer) — 2
-- [Autonomy, Grounding, and Drift](#autonomy-grounding-and-drift) — 11
+- [Autonomy, Grounding, and Drift](#autonomy-grounding-and-drift) — 10
 - [Parking Lot (not yet integrated, may be useful)](#parking-lot-not-yet-integrated-may-be-useful) — 17
 
 ## Foundational SA and Human Factors
@@ -72,7 +72,6 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Meinke, A., Schoen, B., Scheurer, J., Balesni, M., Shah, R., & Hobbhahn, M. (2024).** Frontier Models are Capable of In-context Scheming. [[link]](https://arxiv.org/abs/2412.04984)
 - **Ngo, R., Chan, L., & Mindermann, S. (2024).** The alignment problem from a deep learning perspective. *arXiv preprint arXiv:2209.00626*. [[link]](https://doi.org/10.48550/arXiv.2209.00626)
 - **Phuong, M., et al. (2024).** Evaluating Frontier Models for Dangerous Capabilities. *arXiv preprint arXiv:2403.13793*. [[link]](https://doi.org/10.48550/arXiv.2403.13793)
-- **Tran, D., & Jarviniemi, A. (2024).** SA-informed deception varies with CoT privacy.
 - **Berglund, L., Stickland, A. C., Balesni, M., et al. (2023).** Taken out of context: On measuring situational awareness in LLMs. *arXiv preprint arXiv:2309.00667*. [[link]](https://doi.org/10.48550/arXiv.2309.00667)
 - **Ajeya Cotra (2022).** Without specific countermeasures, the easiest path to transformative AI likely leads to AI takeover. *AI Alignment Forum*. [[link]](https://www.lesswrong.com/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to)
 - **Jiahai Feng, Stuart Russell, Jacob Steinhardt (n.d.).** Extractive Structures Learned in Pretraining Enable Generalization on Finetuned Facts. [[link]](https://arxiv.org/abs/2412.04614)
@@ -92,7 +91,6 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - **AI Digest. (2026).** What did we learn from the AI Village in 2025? [[link]](https://theaidigest.org/village/blog/what-we-learned-2025)
 - **Bryan, P., et al. (2025).** Taxonomy of Failure Mode in Agentic AI Systems. Microsoft. [[link]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
-- **Luo, A., Kasirzadeh, A., Shah, N. (2025).** The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems. CMU. [[link]](https://arxiv.org/abs/2509.08713)
 - **Pipis, C., et al. (2025).** Wait, Wait, Wait... Why Do Reasoning Models Loop? MIT/Microsoft. [[link]](https://arxiv.org/abs/2512.12895)
 - **Reid, A., O'Callaghan, S., Carroll, L., & Caetano, T. (2025).** Risk analysis techniques for governed LLM-based multi-agent systems. *arXiv preprint arXiv:2508.05687*. [[link]](https://arxiv.org/abs/2508.05687)
 - **Park, P. S., Goldstein, S., O'Gara, A., Chen, M., & Hendrycks, D. (2024).** AI deception: A survey of examples, risks, and potential solutions. *Patterns*, 5(5), 100988. [[link]](https://doi.org/10.1016/j.patter.2024.100988)
@@ -171,7 +169,6 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Lin, X., et al. (2025).** LLM-based Agents Suffer from Hallucinations: A Survey. *arXiv preprint arXiv:2509.18970*. [[link]](https://arxiv.org/abs/2509.18970)
 - **Max Heitmann, Ture Hinrichsen, David Africa, Jonas Sandbrink (2025).** Understanding AI Trajectories: Mapping the Limitations of Current AI Systems. UK AISI. [[link]](https://www.aisi.gov.uk/research/understanding-ai-trajectories-mapping-the-limitations-of-current-ai-systems)
 - **Ziming Luo, Atoosa Kasirzadeh, Nihar B. Shah (2025).** The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems. CMU. [[link]](https://arxiv.org/abs/2509.08713)
-- **Anon. (2024).** Language Models Can Articulate Implicit Goals.
 - **Shumailov, I., Shumaylov, Z., Zhao, Y., Gal, Y., Papernot, N., & Anderson, R. (2024).** AI models collapse when trained on recursively generated data. *Nature*, 631, 755-759. [[link]](https://doi.org/10.1038/s41586-024-07566-y)
 - **Alemohammad, S., et al. (2023).** Self-Consuming Generative Models Go MAD. *NeurIPS 2023*. arXiv:2307.01850. [[link]](https://arxiv.org/abs/2307.01850)
 - **Zhang, M., Press, O., Merrill, W., Liu, A., & Smith, N. A. (2023).** How Language Model Hallucinations Can Snowball. *arXiv preprint arXiv:2305.13534*. ICML 2024. [[link]](https://arxiv.org/abs/2305.13534)
@@ -179,24 +176,24 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Parking Lot (not yet integrated, may be useful)
 
 - **Elenjical, T., Kavuri, S., & Varma, V. (2026).** Think2: Grounded Metacognitive Reasoning in Large Language Models. *arXiv preprint arXiv:2602.18806*. [[link]](https://arxiv.org/abs/2602.18806)
-- **Ahmed, N., et al. (2025).** Do LLMs Know They Are Being Tested? *arXiv preprint arXiv:2510.08624*.
+- **Ahmed, N., et al. (2025).** Do LLMs Know They Are Being Tested? Evaluation Awareness and Incentive-Sensitive Failures in GPT-OSS-20B. *arXiv preprint arXiv:2510.08624*. [[link]](https://arxiv.org/abs/2510.08624)
 - **Betley, J., et al. (2025).** Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs. *arXiv preprint arXiv:2502.17424*. [[link]](https://arxiv.org/abs/2502.17424)
 - **Cintas, C., et al. (2025).** Localizing Persona Representations in LLMs. *arXiv preprint arXiv:2505.24539*. [[link]](https://arxiv.org/abs/2505.24539)
 - **Comsa, I. M., & Shanahan, M. (2025).** Does It Make Sense to Speak of Introspection in Large Language Models? *arXiv preprint arXiv:2506.05068*. [[link]](https://arxiv.org/abs/2506.05068)
-- **Imran, S., Lamb, R., & Atkinson, P. M. (2025).** Out-of-Context Abduction. *arXiv preprint arXiv:2508.00741*.
+- **Imran, S., Lamb, R., & Atkinson, P. M. (2025).** Out-of-Context Abduction: LLMs Make Inferences About Procedural Data Leveraging Declarative Facts in Earlier Training Data. *arXiv preprint arXiv:2508.00741*. [[link]](https://arxiv.org/abs/2508.00741)
 - **Kumaran, S., et al. (2025).** How Overconfidence in Initial Choices and Underconfidence Under Criticism Modulate Change of Mind in LLMs. *arXiv preprint arXiv:2507.03120*. [[link]](https://arxiv.org/abs/2507.03120)
-- **Mallen, A., et al. (2025).** Subversion Strategy Eval. *arXiv preprint arXiv:2412.12480*.
+- **Mallen, A., et al. (2025).** Subversion Strategy Eval: Can language models statelessly strategize to subvert control protocols? *arXiv preprint arXiv:2412.12480*. [[link]](https://arxiv.org/abs/2412.12480)
 - **Sharkey, L., et al. (2025).** Open Problems in Mechanistic Interpretability. *arXiv preprint arXiv:2501.16496*. [[link]](https://arxiv.org/abs/2501.16496)
 - **Shen, G., et al. (2025).** From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs. *arXiv preprint arXiv:2510.05169*. [[link]](https://arxiv.org/abs/2510.05169)
-- **Sühr, T., et al. (2025).** Stop evaluating AI with human tests. *arXiv preprint arXiv:2507.23009*.
+- **Sühr, T., et al. (2025).** Stop Evaluating AI with Human Tests, Develop Principled, AI-specific Tests instead. *arXiv preprint arXiv:2507.23009*. [[link]](https://arxiv.org/abs/2507.23009)
 - **Tian Hua, T., Qin, A., Marks, S., & Nanda, N. (2025).** Steering Evaluation-Aware Language Models to Act Like They Are Deployed. *arXiv preprint arXiv:2510.20487*. [[link]](https://arxiv.org/abs/2510.20487)
 - **Binder, F. J., et al. (2024).** Looking Inward: Language Models Can Learn About Themselves by Introspection. *arXiv preprint arXiv:2410.13787*. [[link]](https://arxiv.org/abs/2410.13787)
+- **Panickssery, A., Bowman, S. R., & Feng, S. (2024).** LLM Evaluators Recognize and Favor Their Own Generations. [[link]](https://arxiv.org/abs/2404.13076)
 - **Perez, E., et al. (2023).** Discovering Language Model Behaviors with Model-Written Evaluations. *Findings of ACL 2023*, 13387-13434. [[link]](https://arxiv.org/abs/2212.09251)
-- **Sanneman, L., & Shah, J. A. (2022).** The Situation Awareness Framework for Explainable AI (SAFE-AI). *International Journal of Human-Computer Interaction*, 38(18-20), 1772-1788.
-- **Flavell, J. H. (1979).** Metacognition and cognitive monitoring. *American Psychologist*, 34(10), 906-911.
-- **Panickssery, A., Bowman, S. R., & Feng, S. (n.d.).** LLM Evaluators Recognize and Favor Their Own Generations.
+- **Sanneman, L., & Shah, J. A. (2022).** The Situation Awareness Framework for Explainable AI (SAFE-AI) and Human Factors Considerations for XAI Systems. *International Journal of Human-Computer Interaction*, 38(18-20), 1772-1788. [[link]](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2081282)
+- **Flavell, J. H. (1979).** Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry.. *American Psychologist*, 34(10), 906-911. [[link]](https://psycnet.apa.org/record/1980-09388-001)
 
-*This list contains 122 entries across 12 categories.*
+*This list contains 119 entries across 12 categories.*
 
 
 ## Contributing

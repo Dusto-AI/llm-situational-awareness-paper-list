@@ -248,12 +248,6 @@ categories:
     - '2.2'
     url: https://arxiv.org/abs/2506.18032
     link_source: manual
-  - authors: Tran, D., & Jarviniemi, A.
-    year: 2024
-    title: SA-informed deception varies with CoT privacy
-    sections:
-    - '2.2'
-    - '7.1'
 - name: Evaluation Methodology and Critique
   papers:
   - authors: Marthe Ballon, Andres Algaba, Brecht Verbeken, Vincent Ginis
@@ -336,17 +330,6 @@ categories:
     - '3'
     - '4'
     url: https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf
-    link_source: manual
-  - authors: Luo, A., Kasirzadeh, A., Shah, N.
-    year: 2025
-    title: 'The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems'
-    citation_tail: CMU
-    notes:
-    - Automation obscures flaws
-    sections:
-    - '6'
-    - '7'
-    url: https://arxiv.org/abs/2509.08713
     link_source: manual
   - authors: Park, P. S., Goldstein, S., O'Gara, A., Chen, M., & Hendrycks, D.
     year: 2024
@@ -818,14 +801,6 @@ categories:
     arxiv_id: '2307.01850'
     url: https://arxiv.org/abs/2307.01850
     link_source: semantic_scholar
-  - authors: Anon.
-    year: 2024
-    title: Language Models Can Articulate Implicit Goals
-    notes:
-    - Models pursue unstated goals
-    sections:
-    - '2.2'
-    - '4.3'
   - authors: Casey O. Barkan, Sid Black, Oliver Sourbut
     year: 2025
     title: Do Large Language Models Know What They Are Capable Of?
@@ -882,6 +857,8 @@ categories:
     year: 2025
     title: 'The More You Automate, the Less You See: Hidden Pitfalls of AI Scientist Systems'
     citation_tail: CMU
+    notes:
+    - Automation obscures flaws
     sections:
     - '6'
     - '7'
@@ -913,9 +890,10 @@ categories:
   papers:
   - authors: Ahmed, N., et al.
     year: 2025
-    title: Do LLMs Know They Are Being Tested?
+    title: Do LLMs Know They Are Being Tested? Evaluation Awareness and Incentive-Sensitive Failures in GPT-OSS-20B
     citation_tail: '*arXiv preprint arXiv:2510.08624*'
     arxiv_id: '2510.08624'
+    url: https://arxiv.org/abs/2510.08624
     notes:
     - Evaluation Awareness Index
   - authors: Binder, F. J., et al.
@@ -966,17 +944,19 @@ categories:
     link_source: semantic_scholar
   - authors: Flavell, J. H.
     year: 1979
-    title: Metacognition and cognitive monitoring
+    title: 'Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry.'
     citation_tail: '*American Psychologist*, 34(10), 906-911'
     sections:
     - '5.2'
+    url: https://psycnet.apa.org/record/1980-09388-001
   - authors: Imran, S., Lamb, R., & Atkinson, P. M.
     year: 2025
-    title: Out-of-Context Abduction
+    title: 'Out-of-Context Abduction: LLMs Make Inferences About Procedural Data Leveraging Declarative Facts in Earlier Training Data'
     citation_tail: '*arXiv preprint arXiv:2508.00741*'
     arxiv_id: '2508.00741'
     sections:
     - '2.2'
+    url: https://arxiv.org/abs/2508.00741
   - authors: Kumaran, S., et al.
     year: 2025
     title: How Overconfidence in Initial Choices and Underconfidence Under Criticism Modulate Change of Mind in LLMs
@@ -988,15 +968,17 @@ categories:
     link_source: semantic_scholar
   - authors: Mallen, A., et al.
     year: 2025
-    title: Subversion Strategy Eval
+    title: 'Subversion Strategy Eval: Can language models statelessly strategize to subvert control protocols?'
     citation_tail: '*arXiv preprint arXiv:2412.12480*'
     arxiv_id: '2412.12480'
     sections:
     - '2.2'
     - '7'
+    url: https://arxiv.org/abs/2412.12480
   - authors: Panickssery, A., Bowman, S. R., & Feng, S.
-    year: n.d.
+    year: 2024
     title: LLM Evaluators Recognize and Favor Their Own Generations
+    url: https://arxiv.org/abs/2404.13076
   - authors: Perez, E., et al.
     year: 2023
     title: Discovering Language Model Behaviors with Model-Written Evaluations
@@ -1007,10 +989,11 @@ categories:
     link_source: semantic_scholar
   - authors: Sanneman, L., & Shah, J. A.
     year: 2022
-    title: The Situation Awareness Framework for Explainable AI (SAFE-AI)
+    title: The Situation Awareness Framework for Explainable AI (SAFE-AI) and Human Factors Considerations for XAI Systems
     citation_tail: '*International Journal of Human-Computer Interaction*, 38(18-20), 1772-1788'
     sections:
     - '2.1'
+    url: https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2081282
   - authors: Sharkey, L., et al.
     year: 2025
     title: Open Problems in Mechanistic Interpretability
@@ -1031,9 +1014,10 @@ categories:
     link_source: semantic_scholar
   - authors: Sühr, T., et al.
     year: 2025
-    title: Stop evaluating AI with human tests
+    title: Stop Evaluating AI with Human Tests, Develop Principled, AI-specific Tests instead
     citation_tail: '*arXiv preprint arXiv:2507.23009*'
     arxiv_id: '2507.23009'
+    url: https://arxiv.org/abs/2507.23009
   - authors: Tian Hua, T., Qin, A., Marks, S., & Nanda, N.
     year: 2025
     title: Steering Evaluation-Aware Language Models to Act Like They Are Deployed
