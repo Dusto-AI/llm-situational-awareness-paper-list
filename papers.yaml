@@ -105,6 +105,20 @@ categories:
     link_source: semantic_scholar
 - name: AI Safety and SA
   papers:
+  - authors: Devbunova, V.
+    year: 2026
+    title: 'Is Evaluation Awareness Just Format Sensitivity? Limitations of Probe-Based Evidence under Controlled Prompt Structure'
+    citation_tail: '*arXiv preprint arXiv:2603.19426*'
+    arxiv_id: '2603.19426'
+    url: https://arxiv.org/abs/2603.19426
+    link_source: manual
+  - authors: Shi, J., Zhang, T. J., Jin, Z., & Conitzer, V.
+    year: 2026
+    title: 'From Hallucination to Scheming: A Unified Taxonomy and Benchmark Analysis for LLM Deception'
+    citation_tail: '*arXiv preprint arXiv:2604.04788*'
+    arxiv_id: '2604.04788'
+    url: https://arxiv.org/abs/2604.04788
+    link_source: manual
   - authors: Balesni, M., et al.
     year: 2024
     title: Towards evaluations-based safety cases for AI scheming
@@ -250,6 +264,13 @@ categories:
     link_source: manual
 - name: Evaluation Methodology and Critique
   papers:
+  - authors: Haklay, T., Prakash, N., Pandey, S., Torralba, A., & Mueller, A.
+    year: 2026
+    title: Pitfalls in Evaluating Interpretability Agents
+    citation_tail: '*arXiv preprint arXiv:2603.20101*'
+    arxiv_id: '2603.20101'
+    url: https://arxiv.org/abs/2603.20101
+    link_source: manual
   - authors: Marthe Ballon, Andres Algaba, Brecht Verbeken, Vincent Ginis
     year: 2026
     title: Benchmarks Saturate When The Model Gets Smarter Than The Judge
@@ -318,6 +339,13 @@ categories:
     - '4.1'
 - name: Agentic AI, Failures, and Deployment
   papers:
+  - authors: Wang, X. J., Bai, H., Sun, Y., Wang, H., Zhang, S., Hu, W., Schroder, M., Mutlu, B., Song, D., & Nowak, R. D.
+    year: 2026
+    title: The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break
+    citation_tail: '*arXiv preprint arXiv:2604.11978*'
+    arxiv_id: '2604.11978'
+    url: https://arxiv.org/abs/2604.11978
+    link_source: manual
   - authors: AI Digest.
     year: 2026
     title: What did we learn from the AI Village in 2025?
@@ -453,6 +481,34 @@ categories:
     link_source: manual
 - name: Self-Knowledge, Introspection, and Metacognition
   papers:
+  - authors: Macar, U., Yang, L., Wang, A., Wallich, P., Ameisen, E., et al.
+    year: 2026
+    title: Mechanisms of Introspective Awareness
+    citation_tail: '*arXiv preprint arXiv:2603.21396*'
+    arxiv_id: '2603.21396'
+    url: https://arxiv.org/abs/2603.21396
+    link_source: manual
+  - authors: Shenoy, K., Yang, L., Sheshadri, A., Mindermann, S., & Lindsey, J.
+    year: 2026
+    title: 'Introspection Adapters: Training LLMs to Report Their Learned Behaviors'
+    citation_tail: '*arXiv preprint arXiv:2604.16812*'
+    arxiv_id: '2604.16812'
+    url: https://arxiv.org/abs/2604.16812
+    link_source: manual
+  - authors: Kumaran, D., Daw, N., Osindero, S., Velickovic, P., & Patraucean, V.
+    year: 2026
+    title: Causal Evidence that Language Models use Confidence to Drive Behavior
+    citation_tail: '*arXiv preprint arXiv:2603.22161*'
+    arxiv_id: '2603.22161'
+    url: https://arxiv.org/abs/2603.22161
+    link_source: manual
+  - authors: Ren, J., et al.
+    year: 2026
+    title: 'Beyond "I Don''t Know": Evaluating LLM Self-Awareness in Discriminating Data and Model Uncertainty'
+    citation_tail: '*arXiv preprint arXiv:2604.17293*'
+    arxiv_id: '2604.17293'
+    url: https://arxiv.org/abs/2604.17293
+    link_source: manual
   - authors: Ackerman, C.
     year: 2025
     title: Evidence for Limited Metacognition in LLMs

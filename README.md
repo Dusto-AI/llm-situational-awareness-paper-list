@@ -26,11 +26,11 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Contents
 
 - [Foundational SA and Human Factors](#foundational-sa-and-human-factors) — 14
-- [AI Safety and SA](#ai-safety-and-sa) — 18
-- [Evaluation Methodology and Critique](#evaluation-methodology-and-critique) — 8
-- [Agentic AI, Failures, and Deployment](#agentic-ai-failures-and-deployment) — 5
+- [AI Safety and SA](#ai-safety-and-sa) — 20
+- [Evaluation Methodology and Critique](#evaluation-methodology-and-critique) — 9
+- [Agentic AI, Failures, and Deployment](#agentic-ai-failures-and-deployment) — 6
 - [LLM Capability Evaluation](#llm-capability-evaluation) — 10
-- [Self-Knowledge, Introspection, and Metacognition](#self-knowledge-introspection-and-metacognition) — 15
+- [Self-Knowledge, Introspection, and Metacognition](#self-knowledge-introspection-and-metacognition) — 19
 - [Theory of Mind](#theory-of-mind) — 2
 - [Memory and Scaffolding](#memory-and-scaffolding) — 10
 - [Architectural Critiques and Formal Limits](#architectural-critiques-and-formal-limits) — 8
@@ -57,7 +57,9 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## AI Safety and SA
 
+- **Devbunova, V. (2026).** Is Evaluation Awareness Just Format Sensitivity? Limitations of Probe-Based Evidence under Controlled Prompt Structure. *arXiv preprint arXiv:2603.19426*. [[link]](https://arxiv.org/abs/2603.19426)
 - **Sahoo, R., & Chaudhary, M. (2026).** Position: The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness. ICLR 2026 Workshop. [[link]](https://arxiv.org/abs/2603.09200)
+- **Shi, J., Zhang, T. J., Jin, Z., & Conitzer, V. (2026).** From Hallucination to Scheming: A Unified Taxonomy and Benchmark Analysis for LLM Deception. *arXiv preprint arXiv:2604.04788*. [[link]](https://arxiv.org/abs/2604.04788)
 - **Chaudhary, M., et al. (2025).** Evaluation Awareness Scales Predictably in Open-Weights Large Language Models. *arXiv preprint arXiv:2509.13333*. [[link]](https://arxiv.org/abs/2509.13333)
 - **Korbak, T., Balesni, M., Shlegeris, B., & Irving, G. (2025).** How to evaluate control measures for LLM agents? *arXiv preprint arXiv:2504.05259*. [[link]](https://doi.org/10.48550/arXiv.2504.05259)
 - **Korbak, T., Clymer, J., Hilton, B., Shlegeris, B., & Irving, G. (2025).** A sketch of an AI control safety case. *arXiv preprint arXiv:2501.17315*. [[link]](https://doi.org/10.48550/arXiv.2501.17315)
@@ -78,6 +80,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Evaluation Methodology and Critique
 
+- **Haklay, T., Prakash, N., Pandey, S., Torralba, A., & Mueller, A. (2026).** Pitfalls in Evaluating Interpretability Agents. *arXiv preprint arXiv:2603.20101*. [[link]](https://arxiv.org/abs/2603.20101)
 - **Khalifa, M., et al. (2026).** Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation. [[link]](https://arxiv.org/abs/2601.14691)
 - **Marthe Ballon, Andres Algaba, Brecht Verbeken, Vincent Ginis (2026).** Benchmarks Saturate When The Model Gets Smarter Than The Judge. [[link]](https://arxiv.org/abs/2601.19532)
 - **Gabriel Mukobi (2025).** Reasons to Doubt the Impact of AI Risk Evaluations. [[link]](https://arxiv.org/abs/2408.02565)
@@ -90,6 +93,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Agentic AI, Failures, and Deployment
 
 - **AI Digest. (2026).** What did we learn from the AI Village in 2025? [[link]](https://theaidigest.org/village/blog/what-we-learned-2025)
+- **Wang, X. J., Bai, H., Sun, Y., Wang, H., Zhang, S., Hu, W., Schroder, M., Mutlu, B., Song, D., & Nowak, R. D. (2026).** The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break. *arXiv preprint arXiv:2604.11978*. [[link]](https://arxiv.org/abs/2604.11978)
 - **Bryan, P., et al. (2025).** Taxonomy of Failure Mode in Agentic AI Systems. Microsoft. [[link]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
 - **Pipis, C., et al. (2025).** Wait, Wait, Wait... Why Do Reasoning Models Loop? MIT/Microsoft. [[link]](https://arxiv.org/abs/2512.12895)
 - **Reid, A., O'Callaghan, S., Carroll, L., & Caetano, T. (2025).** Risk analysis techniques for governed LLM-based multi-agent systems. *arXiv preprint arXiv:2508.05687*. [[link]](https://arxiv.org/abs/2508.05687)
@@ -111,6 +115,10 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Self-Knowledge, Introspection, and Metacognition
 
 - **Christina Lu, Jack Gallagher, Jonathan Michala, Kyle Fish, Jack Lindsey (2026).** The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models. Anthropic. [[link]](https://arxiv.org/abs/2601.10387)
+- **Kumaran, D., Daw, N., Osindero, S., Velickovic, P., & Patraucean, V. (2026).** Causal Evidence that Language Models use Confidence to Drive Behavior. *arXiv preprint arXiv:2603.22161*. [[link]](https://arxiv.org/abs/2603.22161)
+- **Macar, U., Yang, L., Wang, A., Wallich, P., Ameisen, E., et al. (2026).** Mechanisms of Introspective Awareness. *arXiv preprint arXiv:2603.21396*. [[link]](https://arxiv.org/abs/2603.21396)
+- **Ren, J., et al. (2026).** Beyond "I Don't Know": Evaluating LLM Self-Awareness in Discriminating Data and Model Uncertainty. *arXiv preprint arXiv:2604.17293*. [[link]](https://arxiv.org/abs/2604.17293)
+- **Shenoy, K., Yang, L., Sheshadri, A., Mindermann, S., & Lindsey, J. (2026).** Introspection Adapters: Training LLMs to Report Their Learned Behaviors. *arXiv preprint arXiv:2604.16812*. [[link]](https://arxiv.org/abs/2604.16812)
 - **Ackerman, C. (2025).** Evidence for Limited Metacognition in LLMs. *arXiv preprint arXiv:2509.21545*. [[link]](https://arxiv.org/abs/2509.21545)
 - **Betley, J., Bao, X., Soto, M., Sztyber-Betley, A., Chua, J., & Evans, O. (2025).** Tell me about yourself: LLMs are aware of their learned behaviors. *arXiv preprint arXiv:2501.11120*. [[link]](https://doi.org/10.48550/arXiv.2501.11120)
 - **Cheang, C., et al (2025).** Do LLMs Really Know What They Don't Know? Internal States Mainly Reflect Knowledge Recall Rather Than Truthfulness. [[link]](https://arxiv.org/abs/2510.09033)
@@ -193,7 +201,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Sanneman, L., & Shah, J. A. (2022).** The Situation Awareness Framework for Explainable AI (SAFE-AI) and Human Factors Considerations for XAI Systems. *International Journal of Human-Computer Interaction*, 38(18-20), 1772-1788. [[link]](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2081282)
 - **Flavell, J. H. (1979).** Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry.. *American Psychologist*, 34(10), 906-911. [[link]](https://psycnet.apa.org/record/1980-09388-001)
 
-*This list contains 119 entries across 12 categories.*
+*This list contains 127 entries across 12 categories.*
 
 
 ## Contributing
