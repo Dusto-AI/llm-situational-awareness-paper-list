@@ -26,16 +26,16 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Contents
 
 - [Foundational SA and Human Factors](#foundational-sa-and-human-factors) — 14
-- [AI Safety and SA](#ai-safety-and-sa) — 20
+- [AI Safety and SA](#ai-safety-and-sa) — 22
 - [Evaluation Methodology and Critique](#evaluation-methodology-and-critique) — 9
-- [Agentic AI, Failures, and Deployment](#agentic-ai-failures-and-deployment) — 6
+- [Agentic AI, Failures, and Deployment](#agentic-ai-failures-and-deployment) — 8
 - [LLM Capability Evaluation](#llm-capability-evaluation) — 10
-- [Self-Knowledge, Introspection, and Metacognition](#self-knowledge-introspection-and-metacognition) — 19
+- [Self-Knowledge, Introspection, and Metacognition](#self-knowledge-introspection-and-metacognition) — 22
 - [Theory of Mind](#theory-of-mind) — 2
-- [Memory and Scaffolding](#memory-and-scaffolding) — 10
+- [Memory and Scaffolding](#memory-and-scaffolding) — 12
 - [Architectural Critiques and Formal Limits](#architectural-critiques-and-formal-limits) — 8
 - [Anthropomorphism and Construct Transfer](#anthropomorphism-and-construct-transfer) — 2
-- [Autonomy, Grounding, and Drift](#autonomy-grounding-and-drift) — 10
+- [Autonomy, Grounding, and Drift](#autonomy-grounding-and-drift) — 11
 - [Parking Lot (not yet integrated, may be useful)](#parking-lot-not-yet-integrated-may-be-useful) — 17
 
 ## Foundational SA and Human Factors
@@ -58,8 +58,10 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## AI Safety and SA
 
 - **Devbunova, V. (2026).** Is Evaluation Awareness Just Format Sensitivity? Limitations of Probe-Based Evidence under Controlled Prompt Structure. *arXiv preprint arXiv:2603.19426*. [[link]](https://arxiv.org/abs/2603.19426)
+- **Knecht, A., Florin, L., & Hagendorff, T. (2026).** Evaluation Awareness in Language Models Has Limited Effect on Behaviour. *arXiv preprint arXiv:2605.05835*. [[link]](https://arxiv.org/abs/2605.05835)
 - **Sahoo, R., & Chaudhary, M. (2026).** Position: The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness. ICLR 2026 Workshop. [[link]](https://arxiv.org/abs/2603.09200)
 - **Shi, J., Zhang, T. J., Jin, Z., & Conitzer, V. (2026).** From Hallucination to Scheming: A Unified Taxonomy and Benchmark Analysis for LLM Deception. *arXiv preprint arXiv:2604.04788*. [[link]](https://arxiv.org/abs/2604.04788)
+- **Wiedermann-Möller, J., et al. (2026).** Instrumental Choices: Measuring the Propensity of LLM Agents to Pursue Instrumental Behaviors. *arXiv preprint arXiv:2605.06490*. [[link]](https://arxiv.org/abs/2605.06490)
 - **Chaudhary, M., et al. (2025).** Evaluation Awareness Scales Predictably in Open-Weights Large Language Models. *arXiv preprint arXiv:2509.13333*. [[link]](https://arxiv.org/abs/2509.13333)
 - **Korbak, T., Balesni, M., Shlegeris, B., & Irving, G. (2025).** How to evaluate control measures for LLM agents? *arXiv preprint arXiv:2504.05259*. [[link]](https://doi.org/10.48550/arXiv.2504.05259)
 - **Korbak, T., Clymer, J., Hilton, B., Shlegeris, B., & Irving, G. (2025).** A sketch of an AI control safety case. *arXiv preprint arXiv:2501.17315*. [[link]](https://doi.org/10.48550/arXiv.2501.17315)
@@ -93,6 +95,8 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Agentic AI, Failures, and Deployment
 
 - **AI Digest. (2026).** What did we learn from the AI Village in 2025? [[link]](https://theaidigest.org/village/blog/what-we-learned-2025)
+- **Sheng, S., Wang, Z., & Zhou, L. (2026).** When Agents Overtrust Environmental Evidence: An Extensible Agentic Framework for Benchmarking Evidence-Grounding Defects in LLM Agents. *arXiv preprint arXiv:2605.08828*. [[link]](https://arxiv.org/abs/2605.08828)
+- **Singh, J., et al. (2026).** Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty. *arXiv preprint arXiv:2605.11436*. [[link]](https://arxiv.org/abs/2605.11436)
 - **Wang, X. J., Bai, H., Sun, Y., Wang, H., Zhang, S., Hu, W., Schroder, M., Mutlu, B., Song, D., & Nowak, R. D. (2026).** The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break. *arXiv preprint arXiv:2604.11978*. [[link]](https://arxiv.org/abs/2604.11978)
 - **Bryan, P., et al. (2025).** Taxonomy of Failure Mode in Agentic AI Systems. Microsoft. [[link]](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
 - **Pipis, C., et al. (2025).** Wait, Wait, Wait... Why Do Reasoning Models Loop? MIT/Microsoft. [[link]](https://arxiv.org/abs/2512.12895)
@@ -114,8 +118,11 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Self-Knowledge, Introspection, and Metacognition
 
+- **Cao, Q., Wang, Y., Qin, P., Zhang, S., Xie, P., et al. (2026).** LLMs Know When They Know, but Do Not Act on It: A Metacognitive Harness for Test-time Scaling. *arXiv preprint arXiv:2605.14186*. [[link]](https://arxiv.org/abs/2605.14186)
+- **Chen, Z., et al. (2026).** Knowing but Not Correcting: Routine Task Requests Suppress Factual Correction in LLMs. *arXiv preprint arXiv:2605.05957*. [[link]](https://arxiv.org/abs/2605.05957)
 - **Christina Lu, Jack Gallagher, Jonathan Michala, Kyle Fish, Jack Lindsey (2026).** The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models. Anthropic. [[link]](https://arxiv.org/abs/2601.10387)
 - **Kumaran, D., Daw, N., Osindero, S., Velickovic, P., & Patraucean, V. (2026).** Causal Evidence that Language Models use Confidence to Drive Behavior. *arXiv preprint arXiv:2603.22161*. [[link]](https://arxiv.org/abs/2603.22161)
+- **Li, Y., Bai, X., Liu, S., Zhang, H., Zeng, A., et al. (2026).** Decomposing and Steering Functional Metacognition in Large Language Models. *arXiv preprint arXiv:2605.08942*. [[link]](https://arxiv.org/abs/2605.08942)
 - **Macar, U., Yang, L., Wang, A., Wallich, P., Ameisen, E., et al. (2026).** Mechanisms of Introspective Awareness. *arXiv preprint arXiv:2603.21396*. [[link]](https://arxiv.org/abs/2603.21396)
 - **Ren, J., et al. (2026).** Beyond "I Don't Know": Evaluating LLM Self-Awareness in Discriminating Data and Model Uncertainty. *arXiv preprint arXiv:2604.17293*. [[link]](https://arxiv.org/abs/2604.17293)
 - **Shenoy, K., Yang, L., Sheshadri, A., Mindermann, S., & Lindsey, J. (2026).** Introspection Adapters: Training LLMs to Report Their Learned Behaviors. *arXiv preprint arXiv:2604.16812*. [[link]](https://arxiv.org/abs/2604.16812)
@@ -141,8 +148,10 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Memory and Scaffolding
 
+- **Chao, H., et al. (2026).** STALE: Can LLM Agents Know When Their Memories Are No Longer Valid? *arXiv preprint arXiv:2605.06527*. [[link]](https://arxiv.org/abs/2605.06527)
 - **Yang, Z., et al. (2026).** PlugMem: Task-Agnostic Plugin Memory Module for LLM Agents. UIUC/Microsoft. [[link]](https://arxiv.org/abs/2603.03296)
 - **Yu, Y., et al. (2026).** Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents. Alibaba. [[link]](https://arxiv.org/abs/2601.01885)
+- **Yu, Ye, et al. (2026).** Do Self-Evolving Agents Forget? Capability Degradation and Preservation in Lifelong LLM Agent Adaptation. *arXiv preprint arXiv:2605.09315*. [[link]](https://arxiv.org/abs/2605.09315)
 - **Chhikara, P., et al. (2025).** Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory. [[link]](https://arxiv.org/abs/2504.19413)
 - **Cross, L., Haber, N., et al. (2025).** Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks. ICLR 2025. [[link]](https://arxiv.org/abs/2407.07086)
 - **Du, Y., et al. (2025).** Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions. [[link]](https://arxiv.org/abs/2505.00675v1)
@@ -171,6 +180,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Autonomy, Grounding, and Drift
 
 - **Huang, J. Y., Choshen, L., Astudillo, R., Broderick, T., & Andreas, J. (2026).** Do LLMs Benefit from Their Own Words? *arXiv preprint arXiv:2602.24287*. [[link]](https://arxiv.org/abs/2602.24287)
+- **Li, T., et al. (2026).** Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems. *arXiv preprint arXiv:2605.10481*. [[link]](https://arxiv.org/abs/2605.10481)
 - **Rath, A. (2026).** Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions. *arXiv preprint arXiv:2601.04170*. [[link]](https://arxiv.org/abs/2601.04170)
 - **Casey O. Barkan, Sid Black, Oliver Sourbut (2025).** Do Large Language Models Know What They Are Capable Of? *arXiv preprint arXiv:2512.24661*. [[link]](https://arxiv.org/abs/2512.24661)
 - **Feng, K. J. K., McDonald, D. W., & Zhang, A. X. (2025).** Levels of Autonomy for AI Agents. *arXiv preprint arXiv:2506.12469*. [[link]](https://arxiv.org/abs/2506.12469)
@@ -201,7 +211,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Sanneman, L., & Shah, J. A. (2022).** The Situation Awareness Framework for Explainable AI (SAFE-AI) and Human Factors Considerations for XAI Systems. *International Journal of Human-Computer Interaction*, 38(18-20), 1772-1788. [[link]](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2081282)
 - **Flavell, J. H. (1979).** Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry.. *American Psychologist*, 34(10), 906-911. [[link]](https://psycnet.apa.org/record/1980-09388-001)
 
-*This list contains 127 entries across 12 categories.*
+*This list contains 137 entries across 12 categories.*
 
 
 ## Contributing
@@ -216,4 +226,4 @@ corrections, or category suggestions.
 
 ---
 
-*Last updated 2026-05-05. Generated from the maintainer's working bibliography.*
+*Last updated 2026-05-18. Generated from the maintainer's working bibliography.*

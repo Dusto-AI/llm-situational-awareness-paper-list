@@ -262,6 +262,20 @@ categories:
     - '2.2'
     url: https://arxiv.org/abs/2506.18032
     link_source: manual
+  - authors: Knecht, A., Florin, L., & Hagendorff, T.
+    year: 2026
+    title: Evaluation Awareness in Language Models Has Limited Effect on Behaviour
+    citation_tail: '*arXiv preprint arXiv:2605.05835*'
+    arxiv_id: '2605.05835'
+    url: https://arxiv.org/abs/2605.05835
+    link_source: manual
+  - authors: Wiedermann-Möller, J., et al.
+    year: 2026
+    title: 'Instrumental Choices: Measuring the Propensity of LLM Agents to Pursue Instrumental Behaviors'
+    citation_tail: '*arXiv preprint arXiv:2605.06490*'
+    arxiv_id: '2605.06490'
+    url: https://arxiv.org/abs/2605.06490
+    link_source: manual
 - name: Evaluation Methodology and Critique
   papers:
   - authors: Haklay, T., Prakash, N., Pandey, S., Torralba, A., & Mueller, A.
@@ -384,6 +398,20 @@ categories:
     arxiv_id: '2508.05687'
     url: https://arxiv.org/abs/2508.05687
     link_source: semantic_scholar
+  - authors: Sheng, S., Wang, Z., & Zhou, L.
+    year: 2026
+    title: 'When Agents Overtrust Environmental Evidence: An Extensible Agentic Framework for Benchmarking Evidence-Grounding Defects in LLM Agents'
+    citation_tail: '*arXiv preprint arXiv:2605.08828*'
+    arxiv_id: '2605.08828'
+    url: https://arxiv.org/abs/2605.08828
+    link_source: manual
+  - authors: Singh, J., et al.
+    year: 2026
+    title: 'Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty'
+    citation_tail: '*arXiv preprint arXiv:2605.11436*'
+    arxiv_id: '2605.11436'
+    url: https://arxiv.org/abs/2605.11436
+    link_source: manual
 - name: LLM Capability Evaluation
   papers:
   - authors: Bogdan, O., et al.
@@ -648,6 +676,27 @@ categories:
     - '4.2'
     url: https://arxiv.org/abs/2404.14043
     link_source: manual
+  - authors: Li, Y., Bai, X., Liu, S., Zhang, H., Zeng, A., et al.
+    year: 2026
+    title: Decomposing and Steering Functional Metacognition in Large Language Models
+    citation_tail: '*arXiv preprint arXiv:2605.08942*'
+    arxiv_id: '2605.08942'
+    url: https://arxiv.org/abs/2605.08942
+    link_source: manual
+  - authors: Cao, Q., Wang, Y., Qin, P., Zhang, S., Xie, P., et al.
+    year: 2026
+    title: 'LLMs Know When They Know, but Do Not Act on It: A Metacognitive Harness for Test-time Scaling'
+    citation_tail: '*arXiv preprint arXiv:2605.14186*'
+    arxiv_id: '2605.14186'
+    url: https://arxiv.org/abs/2605.14186
+    link_source: manual
+  - authors: Chen, Z., et al.
+    year: 2026
+    title: 'Knowing but Not Correcting: Routine Task Requests Suppress Factual Correction in LLMs'
+    citation_tail: '*arXiv preprint arXiv:2605.05957*'
+    arxiv_id: '2605.05957'
+    url: https://arxiv.org/abs/2605.05957
+    link_source: manual
 - name: Theory of Mind
   papers:
   - authors: Gu, Y., et al.
@@ -760,6 +809,20 @@ categories:
     sections:
     - '5.1'
     url: https://arxiv.org/abs/2601.01885
+    link_source: manual
+  - authors: Chao, H., et al.
+    year: 2026
+    title: 'STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?'
+    citation_tail: '*arXiv preprint arXiv:2605.06527*'
+    arxiv_id: '2605.06527'
+    url: https://arxiv.org/abs/2605.06527
+    link_source: manual
+  - authors: Yu, Ye, et al.
+    year: 2026
+    title: 'Do Self-Evolving Agents Forget? Capability Degradation and Preservation in Lifelong LLM Agent Adaptation'
+    citation_tail: '*arXiv preprint arXiv:2605.09315*'
+    arxiv_id: '2605.09315'
+    url: https://arxiv.org/abs/2605.09315
     link_source: manual
 - name: Architectural Critiques and Formal Limits
   papers:
@@ -942,6 +1005,13 @@ categories:
     arxiv_id: '2305.13534'
     url: https://arxiv.org/abs/2305.13534
     link_source: semantic_scholar
+  - authors: Li, T., et al.
+    year: 2026
+    title: 'Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems'
+    citation_tail: '*arXiv preprint arXiv:2605.10481*'
+    arxiv_id: '2605.10481'
+    url: https://arxiv.org/abs/2605.10481
+    link_source: manual
 - name: Parking Lot (not yet integrated, may be useful)
   papers:
   - authors: Ahmed, N., et al.
