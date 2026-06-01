@@ -276,6 +276,15 @@ categories:
     arxiv_id: '2605.06490'
     url: https://arxiv.org/abs/2605.06490
     link_source: manual
+  - authors: Li, C., et al.
+    year: 2026
+    title: Decomposing and Measuring Evaluation Awareness
+    citation_tail: '*arXiv preprint arXiv:2605.23055*'
+    arxiv_id: '2605.23055'
+    notes:
+    - Decomposes eval awareness into environment (8 trigger factors) and model components; introduces EvalAwareBench. Finds recognition rarely produces behavioural change, and models are more sensitive to safety than capability evals.
+    url: https://arxiv.org/abs/2605.23055
+    link_source: manual
 - name: Evaluation Methodology and Critique
   papers:
   - authors: Haklay, T., Prakash, N., Pandey, S., Torralba, A., & Mueller, A.
@@ -411,6 +420,20 @@ categories:
     citation_tail: '*arXiv preprint arXiv:2605.11436*'
     arxiv_id: '2605.11436'
     url: https://arxiv.org/abs/2605.11436
+    link_source: manual
+  - authors: Wang, Z., Jin, S., Cao, Z., & Wang, L.
+    year: 2026
+    title: 'When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems'
+    citation_tail: '*arXiv preprint arXiv:2605.23414*'
+    arxiv_id: '2605.23414'
+    url: https://arxiv.org/abs/2605.23414
+    link_source: manual
+  - authors: Tang, W., Li, M., Huang, S., Xiao, L., & Zhou, Y.
+    year: 2026
+    title: 'Rewarding Beliefs, Not Actions: Consistency-Guided Credit Assignment for Long-Horizon Agents'
+    citation_tail: '*arXiv preprint arXiv:2605.20061*'
+    arxiv_id: '2605.20061'
+    url: https://arxiv.org/abs/2605.20061
     link_source: manual
 - name: LLM Capability Evaluation
   papers:
@@ -697,6 +720,20 @@ categories:
     arxiv_id: '2605.05957'
     url: https://arxiv.org/abs/2605.05957
     link_source: manual
+  - authors: Singh, S., Linzen, T., & Ravfogel, S.
+    year: 2026
+    title: Can LLMs Introspect? A Reality Check
+    citation_tail: '*arXiv preprint arXiv:2605.26242*'
+    arxiv_id: '2605.26242'
+    url: https://arxiv.org/abs/2605.26242
+    link_source: manual
+  - authors: Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R.
+    year: 2026
+    title: Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
+    citation_tail: '*arXiv preprint arXiv:2605.25856*'
+    arxiv_id: '2605.25856'
+    url: https://arxiv.org/abs/2605.25856
+    link_source: manual
 - name: Theory of Mind
   papers:
   - authors: Gu, Y., et al.
@@ -719,6 +756,13 @@ categories:
     - '4.4'
     - '6.1'
     url: https://arxiv.org/abs/2507.16196
+    link_source: manual
+  - authors: Bawatneh, A., Sapkota, S., Bedi, A. S., Karmaker, S., & Shah, M.
+    year: 2026
+    title: 'OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling'
+    citation_tail: '*arXiv preprint arXiv:2605.26322*'
+    arxiv_id: '2605.26322'
+    url: https://arxiv.org/abs/2605.26322
     link_source: manual
 - name: Memory and Scaffolding
   papers:
@@ -823,6 +867,13 @@ categories:
     citation_tail: '*arXiv preprint arXiv:2605.09315*'
     arxiv_id: '2605.09315'
     url: https://arxiv.org/abs/2605.09315
+    link_source: manual
+  - authors: Garg, I., Kolhe, N., Song, D., & Zhao, X.
+    year: 2026
+    title: 'MemFail: Stress-Testing Failure Modes of LLM Memory Systems'
+    citation_tail: '*arXiv preprint arXiv:2605.26667*'
+    arxiv_id: '2605.26667'
+    url: https://arxiv.org/abs/2605.26667
     link_source: manual
 - name: Architectural Critiques and Formal Limits
   papers:
@@ -1011,6 +1062,13 @@ categories:
     citation_tail: '*arXiv preprint arXiv:2605.10481*'
     arxiv_id: '2605.10481'
     url: https://arxiv.org/abs/2605.10481
+    link_source: manual
+  - authors: Dabas, M., Jeong, J., Jin, M., & Jia, R.
+    year: 2026
+    title: Memory-Induced Tool-Drift in LLM Agents
+    citation_tail: '*arXiv preprint arXiv:2605.24941*'
+    arxiv_id: '2605.24941'
+    url: https://arxiv.org/abs/2605.24941
     link_source: manual
 - name: Parking Lot (not yet integrated, may be useful)
   papers:
