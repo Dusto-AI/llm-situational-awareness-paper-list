@@ -32,7 +32,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [LLM Capability Evaluation](#llm-capability-evaluation) — 10
 - [Self-Knowledge, Introspection, and Metacognition](#self-knowledge-introspection-and-metacognition) — 24
 - [Theory of Mind](#theory-of-mind) — 3
-- [Memory and Scaffolding](#memory-and-scaffolding) — 13
+- [Memory and Scaffolding](#memory-and-scaffolding) — 14
 - [Architectural Critiques and Formal Limits](#architectural-critiques-and-formal-limits) — 8
 - [Anthropomorphism and Construct Transfer](#anthropomorphism-and-construct-transfer) — 2
 - [Autonomy, Grounding, and Drift](#autonomy-grounding-and-drift) — 12
@@ -156,6 +156,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - **Chao, H., et al. (2026).** STALE: Can LLM Agents Know When Their Memories Are No Longer Valid? *arXiv preprint arXiv:2605.06527*. [[link]](https://arxiv.org/abs/2605.06527)
 - **Garg, I., Kolhe, N., Song, D., & Zhao, X. (2026).** MemFail: Stress-Testing Failure Modes of LLM Memory Systems. *arXiv preprint arXiv:2605.26667*. [[link]](https://arxiv.org/abs/2605.26667)
+- **Liu, C., et al. (2026).** WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction. *arXiv preprint arXiv:2605.29341*. [[link]](https://arxiv.org/abs/2605.29341)
 - **Yang, Z., et al. (2026).** PlugMem: Task-Agnostic Plugin Memory Module for LLM Agents. UIUC/Microsoft. [[link]](https://arxiv.org/abs/2603.03296)
 - **Yu, Y., et al. (2026).** Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents. Alibaba. [[link]](https://arxiv.org/abs/2601.01885)
 - **Yu, Ye, et al. (2026).** Do Self-Evolving Agents Forget? Capability Degradation and Preservation in Lifelong LLM Agent Adaptation. *arXiv preprint arXiv:2605.09315*. [[link]](https://arxiv.org/abs/2605.09315)
@@ -219,7 +220,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Sanneman, L., & Shah, J. A. (2022).** The Situation Awareness Framework for Explainable AI (SAFE-AI) and Human Factors Considerations for XAI Systems. *International Journal of Human-Computer Interaction*, 38(18-20), 1772-1788. [[link]](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2081282)
 - **Flavell, J. H. (1979).** Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry.. *American Psychologist*, 34(10), 906-911. [[link]](https://psycnet.apa.org/record/1980-09388-001)
 
-*This list contains 145 entries across 12 categories.*
+*This list contains 146 entries across 12 categories.*
 
 
 ## Contributing
@@ -234,4 +235,4 @@ corrections, or category suggestions.
 
 ---
 
-*Last updated 2026-06-02. Generated from the maintainer's working bibliography.*
+*Last updated 2026-06-05. Generated from the maintainer's working bibliography.*

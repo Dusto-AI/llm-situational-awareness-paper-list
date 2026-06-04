@@ -875,6 +875,15 @@ categories:
     arxiv_id: '2605.26667'
     url: https://arxiv.org/abs/2605.26667
     link_source: manual
+  - authors: Liu, C., et al.
+    year: 2026
+    title: 'WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction'
+    citation_tail: '*arXiv preprint arXiv:2605.29341*'
+    arxiv_id: '2605.29341'
+    notes:
+    - Benchmark for multimodal agent memory via action-world interaction
+    url: https://arxiv.org/abs/2605.29341
+    link_source: manual
 - name: Architectural Critiques and Formal Limits
   papers:
   - authors: Sara Hooker
