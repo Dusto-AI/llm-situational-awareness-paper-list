@@ -103,15 +103,22 @@ categories:
     citation_tail: Armstrong Laboratory Technical Report
     url: https://doi.org/10.21236/ada284752
     link_source: semantic_scholar
+  - authors: Flavell, J. H.
+    year: 1979
+    title: 'Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry.'
+    citation_tail: '*American Psychologist*, 34(10), 906-911'
+    sections:
+    - '5.2'
+    url: https://psycnet.apa.org/record/1980-09388-001
+  - authors: Sanneman, L., & Shah, J. A.
+    year: 2022
+    title: The Situation Awareness Framework for Explainable AI (SAFE-AI) and Human Factors Considerations for XAI Systems
+    citation_tail: '*International Journal of Human-Computer Interaction*, 38(18-20), 1772-1788'
+    sections:
+    - '2.1'
+    url: https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2081282
 - name: AI Safety and SA
   papers:
-  - authors: Devbunova, V.
-    year: 2026
-    title: 'Is Evaluation Awareness Just Format Sensitivity? Limitations of Probe-Based Evidence under Controlled Prompt Structure'
-    citation_tail: '*arXiv preprint arXiv:2603.19426*'
-    arxiv_id: '2603.19426'
-    url: https://arxiv.org/abs/2603.19426
-    link_source: manual
   - authors: Shi, J., Zhang, T. J., Jin, Z., & Conitzer, V.
     year: 2026
     title: 'From Hallucination to Scheming: A Unified Taxonomy and Benchmark Analysis for LLM Deception'
@@ -145,13 +152,6 @@ categories:
     - '2.2'
     - '7.2'
     url: https://arxiv.org/abs/2502.13295
-    link_source: manual
-  - authors: Chaudhary, M., et al.
-    year: 2025
-    title: Evaluation Awareness Scales Predictably in Open-Weights Large Language Models
-    citation_tail: '*arXiv preprint arXiv:2509.13333*'
-    arxiv_id: '2509.13333'
-    url: https://arxiv.org/abs/2509.13333
     link_source: manual
   - authors: Ajeya Cotra
     year: 2022
@@ -204,28 +204,12 @@ categories:
     - '7.1'
     url: https://arxiv.org/abs/2412.04984
     link_source: semantic_scholar
-  - authors: Needham, J., Edkins, G., Pimpale, G., Bartsch, H., & Hobbhahn, M.
-    year: 2025
-    title: Large Language Models Often Know When They Are Being Evaluated
-    citation_tail: '*arXiv preprint arXiv:2505.23836*'
-    url: https://doi.org/10.48550/arXiv.2505.23836
-    arxiv_id: '2505.23836'
-    sections:
-    - '2.2'
   - authors: Ngo, R., Chan, L., & Mindermann, S.
     year: 2024
     title: The alignment problem from a deep learning perspective
     citation_tail: '*arXiv preprint arXiv:2209.00626*'
     url: https://doi.org/10.48550/arXiv.2209.00626
     arxiv_id: '2209.00626'
-    sections:
-    - '2.2'
-  - authors: Nguyen, J., Hoang, K., Attubato, C. L., & Hofstätter, F.
-    year: 2025
-    title: Probing and Steering Evaluation Awareness of Language Models
-    citation_tail: '*arXiv preprint arXiv:2507.01786*'
-    url: https://doi.org/10.48550/arXiv.2507.01786
-    arxiv_id: '2507.01786'
     sections:
     - '2.2'
   - authors: Phuong, M., et al.
@@ -262,19 +246,78 @@ categories:
     - '2.2'
     url: https://arxiv.org/abs/2506.18032
     link_source: manual
-  - authors: Knecht, A., Florin, L., & Hagendorff, T.
-    year: 2026
-    title: Evaluation Awareness in Language Models Has Limited Effect on Behaviour
-    citation_tail: '*arXiv preprint arXiv:2605.05835*'
-    arxiv_id: '2605.05835'
-    url: https://arxiv.org/abs/2605.05835
-    link_source: manual
   - authors: Wiedermann-Möller, J., et al.
     year: 2026
     title: 'Instrumental Choices: Measuring the Propensity of LLM Agents to Pursue Instrumental Behaviors'
     citation_tail: '*arXiv preprint arXiv:2605.06490*'
     arxiv_id: '2605.06490'
     url: https://arxiv.org/abs/2605.06490
+    link_source: manual
+  - authors: Betley, J., et al.
+    year: 2025
+    title: 'Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs'
+    citation_tail: '*arXiv preprint arXiv:2502.17424*'
+    arxiv_id: '2502.17424'
+    sections:
+    - '4.3'
+    - '7.1'
+    url: https://arxiv.org/abs/2502.17424
+    link_source: manual
+  - authors: Imran, S., Lamb, R., & Atkinson, P. M.
+    year: 2025
+    title: 'Out-of-Context Abduction: LLMs Make Inferences About Procedural Data Leveraging Declarative Facts in Earlier Training Data'
+    citation_tail: '*arXiv preprint arXiv:2508.00741*'
+    arxiv_id: '2508.00741'
+    sections:
+    - '2.2'
+    url: https://arxiv.org/abs/2508.00741
+  - authors: Mallen, A., et al.
+    year: 2025
+    title: 'Subversion Strategy Eval: Can language models statelessly strategize to subvert control protocols?'
+    citation_tail: '*arXiv preprint arXiv:2412.12480*'
+    arxiv_id: '2412.12480'
+    sections:
+    - '2.2'
+    - '7'
+    url: https://arxiv.org/abs/2412.12480
+- name: Evaluation Awareness
+  papers:
+  - authors: Devbunova, V.
+    year: 2026
+    title: 'Is Evaluation Awareness Just Format Sensitivity? Limitations of Probe-Based Evidence under Controlled Prompt Structure'
+    citation_tail: '*arXiv preprint arXiv:2603.19426*'
+    arxiv_id: '2603.19426'
+    url: https://arxiv.org/abs/2603.19426
+    link_source: manual
+  - authors: Chaudhary, M., et al.
+    year: 2025
+    title: Evaluation Awareness Scales Predictably in Open-Weights Large Language Models
+    citation_tail: '*arXiv preprint arXiv:2509.13333*'
+    arxiv_id: '2509.13333'
+    url: https://arxiv.org/abs/2509.13333
+    link_source: manual
+  - authors: Needham, J., Edkins, G., Pimpale, G., Bartsch, H., & Hobbhahn, M.
+    year: 2025
+    title: Large Language Models Often Know When They Are Being Evaluated
+    citation_tail: '*arXiv preprint arXiv:2505.23836*'
+    url: https://doi.org/10.48550/arXiv.2505.23836
+    arxiv_id: '2505.23836'
+    sections:
+    - '2.2'
+  - authors: Nguyen, J., Hoang, K., Attubato, C. L., & Hofstätter, F.
+    year: 2025
+    title: Probing and Steering Evaluation Awareness of Language Models
+    citation_tail: '*arXiv preprint arXiv:2507.01786*'
+    url: https://doi.org/10.48550/arXiv.2507.01786
+    arxiv_id: '2507.01786'
+    sections:
+    - '2.2'
+  - authors: Knecht, A., Florin, L., & Hagendorff, T.
+    year: 2026
+    title: Evaluation Awareness in Language Models Has Limited Effect on Behaviour
+    citation_tail: '*arXiv preprint arXiv:2605.05835*'
+    arxiv_id: '2605.05835'
+    url: https://arxiv.org/abs/2605.05835
     link_source: manual
   - authors: Li, C., et al.
     year: 2026
@@ -284,6 +327,28 @@ categories:
     notes:
     - Decomposes eval awareness into environment (8 trigger factors) and model components; introduces EvalAwareBench. Finds recognition rarely produces behavioural change, and models are more sensitive to safety than capability evals.
     url: https://arxiv.org/abs/2605.23055
+    link_source: manual
+  - authors: Ahmed, N., et al.
+    year: 2025
+    title: Do LLMs Know They Are Being Tested? Evaluation Awareness and Incentive-Sensitive Failures in GPT-OSS-20B
+    citation_tail: '*arXiv preprint arXiv:2510.08624*'
+    arxiv_id: '2510.08624'
+    url: https://arxiv.org/abs/2510.08624
+    notes:
+    - Evaluation Awareness Index
+  - authors: Tian Hua, T., Qin, A., Marks, S., & Nanda, N.
+    year: 2025
+    title: Steering Evaluation-Aware Language Models to Act Like They Are Deployed
+    citation_tail: '*arXiv preprint arXiv:2510.20487*'
+    arxiv_id: '2510.20487'
+    url: https://arxiv.org/abs/2510.20487
+    link_source: semantic_scholar
+  - authors: Nayan, N., et al.
+    year: 2026
+    title: 'Evaluation Awareness Is Not One Capability: Evidence from Open Language Models'
+    citation_tail: '*arXiv preprint arXiv:2606.23583*'
+    arxiv_id: '2606.23583'
+    url: https://arxiv.org/abs/2606.23583
     link_source: manual
 - name: Evaluation Methodology and Critique
   papers:
@@ -360,6 +425,20 @@ categories:
     url: https://doi.org/10.18653/v1/2024.findings-emnlp.464
     sections:
     - '4.1'
+  - authors: Perez, E., et al.
+    year: 2023
+    title: Discovering Language Model Behaviors with Model-Written Evaluations
+    citation_tail: '*Findings of ACL 2023*, 13387-13434'
+    sections:
+    - '7.2'
+    url: https://arxiv.org/abs/2212.09251
+    link_source: semantic_scholar
+  - authors: Sühr, T., et al.
+    year: 2025
+    title: Stop Evaluating AI with Human Tests, Develop Principled, AI-specific Tests instead
+    citation_tail: '*arXiv preprint arXiv:2507.23009*'
+    arxiv_id: '2507.23009'
+    url: https://arxiv.org/abs/2507.23009
 - name: Agentic AI, Failures, and Deployment
   papers:
   - authors: Wang, X. J., Bai, H., Sun, Y., Wang, H., Zhang, S., Hu, W., Schroder, M., Mutlu, B., Song, D., & Nowak, R. D.
@@ -734,6 +813,54 @@ categories:
     arxiv_id: '2605.25856'
     url: https://arxiv.org/abs/2605.25856
     link_source: manual
+  - authors: Binder, F. J., et al.
+    year: 2024
+    title: 'Looking Inward: Language Models Can Learn About Themselves by Introspection'
+    citation_tail: '*arXiv preprint arXiv:2410.13787*'
+    arxiv_id: '2410.13787'
+    sections:
+    - '4.3'
+    - '5'
+    url: https://arxiv.org/abs/2410.13787
+    link_source: semantic_scholar
+  - authors: Cintas, C., et al.
+    year: 2025
+    title: Localizing Persona Representations in LLMs
+    citation_tail: '*arXiv preprint arXiv:2505.24539*'
+    arxiv_id: '2505.24539'
+    sections:
+    - '4.3'
+    url: https://arxiv.org/abs/2505.24539
+    link_source: semantic_scholar
+  - authors: Elenjical, T., Kavuri, S., & Varma, V.
+    year: 2026
+    title: 'Think2: Grounded Metacognitive Reasoning in Large Language Models'
+    citation_tail: '*arXiv preprint arXiv:2602.18806*'
+    arxiv_id: '2602.18806'
+    url: https://arxiv.org/abs/2602.18806
+    link_source: semantic_scholar
+  - authors: Kumaran, S., et al.
+    year: 2025
+    title: How Overconfidence in Initial Choices and Underconfidence Under Criticism Modulate Change of Mind in LLMs
+    citation_tail: '*arXiv preprint arXiv:2507.03120*'
+    arxiv_id: '2507.03120'
+    sections:
+    - '4.3'
+    url: https://arxiv.org/abs/2507.03120
+    link_source: semantic_scholar
+  - authors: Panickssery, A., Bowman, S. R., & Feng, S.
+    year: 2024
+    title: LLM Evaluators Recognize and Favor Their Own Generations
+    url: https://arxiv.org/abs/2404.13076
+  - authors: Shen, G., et al.
+    year: 2025
+    title: 'From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs'
+    citation_tail: '*arXiv preprint arXiv:2510.05169*'
+    arxiv_id: '2510.05169'
+    sections:
+    - '4.3'
+    url: https://arxiv.org/abs/2510.05169
+    link_source: semantic_scholar
 - name: Theory of Mind
   papers:
   - authors: Gu, Y., et al.
@@ -952,6 +1079,15 @@ categories:
     - '8.3'
     url: https://arxiv.org/abs/2401.11817
     link_source: semantic_scholar
+  - authors: Sharkey, L., et al.
+    year: 2025
+    title: Open Problems in Mechanistic Interpretability
+    citation_tail: '*arXiv preprint arXiv:2501.16496*'
+    arxiv_id: '2501.16496'
+    sections:
+    - '8.3'
+    url: https://arxiv.org/abs/2501.16496
+    link_source: semantic_scholar
 - name: Anthropomorphism and Construct Transfer
   papers:
   - authors: Raj Sanjay Shah, Sashank Varma
@@ -971,6 +1107,16 @@ categories:
     - '8.2'
     url: https://doi.org/10.3389/fpsyg.2026.1715835
     link_source: manual
+  - authors: Comsa, I. M., & Shanahan, M.
+    year: 2025
+    title: Does It Make Sense to Speak of Introspection in Large Language Models?
+    citation_tail: '*arXiv preprint arXiv:2506.05068*'
+    arxiv_id: '2506.05068'
+    sections:
+    - '4.3'
+    - '8.2'
+    url: https://arxiv.org/abs/2506.05068
+    link_source: semantic_scholar
 - name: Autonomy, Grounding, and Drift
   papers:
   - authors: Alemohammad, S., et al.
@@ -1079,142 +1225,3 @@ categories:
     arxiv_id: '2605.24941'
     url: https://arxiv.org/abs/2605.24941
     link_source: manual
-- name: Parking Lot (not yet integrated, may be useful)
-  papers:
-  - authors: Ahmed, N., et al.
-    year: 2025
-    title: Do LLMs Know They Are Being Tested? Evaluation Awareness and Incentive-Sensitive Failures in GPT-OSS-20B
-    citation_tail: '*arXiv preprint arXiv:2510.08624*'
-    arxiv_id: '2510.08624'
-    url: https://arxiv.org/abs/2510.08624
-    notes:
-    - Evaluation Awareness Index
-  - authors: Binder, F. J., et al.
-    year: 2024
-    title: 'Looking Inward: Language Models Can Learn About Themselves by Introspection'
-    citation_tail: '*arXiv preprint arXiv:2410.13787*'
-    arxiv_id: '2410.13787'
-    sections:
-    - '4.3'
-    - '5'
-    url: https://arxiv.org/abs/2410.13787
-    link_source: semantic_scholar
-  - authors: Betley, J., et al.
-    year: 2025
-    title: 'Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs'
-    citation_tail: '*arXiv preprint arXiv:2502.17424*'
-    arxiv_id: '2502.17424'
-    sections:
-    - '4.3'
-    - '7.1'
-    url: https://arxiv.org/abs/2502.17424
-    link_source: manual
-  - authors: Cintas, C., et al.
-    year: 2025
-    title: Localizing Persona Representations in LLMs
-    citation_tail: '*arXiv preprint arXiv:2505.24539*'
-    arxiv_id: '2505.24539'
-    sections:
-    - '4.3'
-    url: https://arxiv.org/abs/2505.24539
-    link_source: semantic_scholar
-  - authors: Comsa, I. M., & Shanahan, M.
-    year: 2025
-    title: Does It Make Sense to Speak of Introspection in Large Language Models?
-    citation_tail: '*arXiv preprint arXiv:2506.05068*'
-    arxiv_id: '2506.05068'
-    sections:
-    - '4.3'
-    - '8.2'
-    url: https://arxiv.org/abs/2506.05068
-    link_source: semantic_scholar
-  - authors: Elenjical, T., Kavuri, S., & Varma, V.
-    year: 2026
-    title: 'Think2: Grounded Metacognitive Reasoning in Large Language Models'
-    citation_tail: '*arXiv preprint arXiv:2602.18806*'
-    arxiv_id: '2602.18806'
-    url: https://arxiv.org/abs/2602.18806
-    link_source: semantic_scholar
-  - authors: Flavell, J. H.
-    year: 1979
-    title: 'Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry.'
-    citation_tail: '*American Psychologist*, 34(10), 906-911'
-    sections:
-    - '5.2'
-    url: https://psycnet.apa.org/record/1980-09388-001
-  - authors: Imran, S., Lamb, R., & Atkinson, P. M.
-    year: 2025
-    title: 'Out-of-Context Abduction: LLMs Make Inferences About Procedural Data Leveraging Declarative Facts in Earlier Training Data'
-    citation_tail: '*arXiv preprint arXiv:2508.00741*'
-    arxiv_id: '2508.00741'
-    sections:
-    - '2.2'
-    url: https://arxiv.org/abs/2508.00741
-  - authors: Kumaran, S., et al.
-    year: 2025
-    title: How Overconfidence in Initial Choices and Underconfidence Under Criticism Modulate Change of Mind in LLMs
-    citation_tail: '*arXiv preprint arXiv:2507.03120*'
-    arxiv_id: '2507.03120'
-    sections:
-    - '4.3'
-    url: https://arxiv.org/abs/2507.03120
-    link_source: semantic_scholar
-  - authors: Mallen, A., et al.
-    year: 2025
-    title: 'Subversion Strategy Eval: Can language models statelessly strategize to subvert control protocols?'
-    citation_tail: '*arXiv preprint arXiv:2412.12480*'
-    arxiv_id: '2412.12480'
-    sections:
-    - '2.2'
-    - '7'
-    url: https://arxiv.org/abs/2412.12480
-  - authors: Panickssery, A., Bowman, S. R., & Feng, S.
-    year: 2024
-    title: LLM Evaluators Recognize and Favor Their Own Generations
-    url: https://arxiv.org/abs/2404.13076
-  - authors: Perez, E., et al.
-    year: 2023
-    title: Discovering Language Model Behaviors with Model-Written Evaluations
-    citation_tail: '*Findings of ACL 2023*, 13387-13434'
-    sections:
-    - '7.2'
-    url: https://arxiv.org/abs/2212.09251
-    link_source: semantic_scholar
-  - authors: Sanneman, L., & Shah, J. A.
-    year: 2022
-    title: The Situation Awareness Framework for Explainable AI (SAFE-AI) and Human Factors Considerations for XAI Systems
-    citation_tail: '*International Journal of Human-Computer Interaction*, 38(18-20), 1772-1788'
-    sections:
-    - '2.1'
-    url: https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2081282
-  - authors: Sharkey, L., et al.
-    year: 2025
-    title: Open Problems in Mechanistic Interpretability
-    citation_tail: '*arXiv preprint arXiv:2501.16496*'
-    arxiv_id: '2501.16496'
-    sections:
-    - '8.3'
-    url: https://arxiv.org/abs/2501.16496
-    link_source: semantic_scholar
-  - authors: Shen, G., et al.
-    year: 2025
-    title: 'From Poisoned to Aware: Fostering Backdoor Self-Awareness in LLMs'
-    citation_tail: '*arXiv preprint arXiv:2510.05169*'
-    arxiv_id: '2510.05169'
-    sections:
-    - '4.3'
-    url: https://arxiv.org/abs/2510.05169
-    link_source: semantic_scholar
-  - authors: Sühr, T., et al.
-    year: 2025
-    title: Stop Evaluating AI with Human Tests, Develop Principled, AI-specific Tests instead
-    citation_tail: '*arXiv preprint arXiv:2507.23009*'
-    arxiv_id: '2507.23009'
-    url: https://arxiv.org/abs/2507.23009
-  - authors: Tian Hua, T., Qin, A., Marks, S., & Nanda, N.
-    year: 2025
-    title: Steering Evaluation-Aware Language Models to Act Like They Are Deployed
-    citation_tail: '*arXiv preprint arXiv:2510.20487*'
-    arxiv_id: '2510.20487'
-    url: https://arxiv.org/abs/2510.20487
-    link_source: semantic_scholar
