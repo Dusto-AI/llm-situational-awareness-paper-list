@@ -350,6 +350,27 @@ categories:
     arxiv_id: '2606.23583'
     url: https://arxiv.org/abs/2606.23583
     link_source: manual
+  - authors: Heidari, F., Memarian, A., & Rabusseau, G.
+    year: 2026
+    title: 'Evaluation Awareness in Language Models: Representation, Verbalization, and Control'
+    citation_tail: '*arXiv preprint arXiv:2608.21766*'
+    arxiv_id: '2608.21766'
+    url: https://arxiv.org/abs/2608.21766
+    link_source: manual
+  - authors: Xu, X.
+    year: 2026
+    title: 'The Oversight Gap: What LLM Safety Monitors Miss, and Why It Is Not Capability'
+    citation_tail: '*arXiv preprint arXiv:2609.07162*'
+    arxiv_id: '2609.07162'
+    url: https://arxiv.org/abs/2609.07162
+    link_source: manual
+  - authors: Das, A., Ponde, J., More, M., & Gupta, D.
+    year: 2026
+    title: 'You Can''t Escape Your Own Activations: Evaluation Awareness and Multi-Agent Monitoring'
+    citation_tail: '*arXiv preprint arXiv:2609.03035*'
+    arxiv_id: '2609.03035'
+    url: https://arxiv.org/abs/2609.03035
+    link_source: manual
 - name: Evaluation Methodology and Critique
   papers:
   - authors: Haklay, T., Prakash, N., Pandey, S., Torralba, A., & Mueller, A.

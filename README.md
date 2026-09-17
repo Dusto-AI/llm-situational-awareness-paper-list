@@ -27,7 +27,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [Foundational SA and Human Factors](#foundational-sa-and-human-factors) — 16
 - [AI Safety and SA](#ai-safety-and-sa) — 20
-- [Evaluation Awareness](#evaluation-awareness) — 9
+- [Evaluation Awareness](#evaluation-awareness) — 12
 - [Evaluation Methodology and Critique](#evaluation-methodology-and-critique) — 11
 - [Agentic AI, Failures, and Deployment](#agentic-ai-failures-and-deployment) — 10
 - [LLM Capability Evaluation](#llm-capability-evaluation) — 10
@@ -82,10 +82,13 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Evaluation Awareness
 
+- **Das, A., Ponde, J., More, M., & Gupta, D. (2026).** You Can't Escape Your Own Activations: Evaluation Awareness and Multi-Agent Monitoring. *arXiv preprint arXiv:2609.03035*. [[link]](https://arxiv.org/abs/2609.03035)
 - **Devbunova, V. (2026).** Is Evaluation Awareness Just Format Sensitivity? Limitations of Probe-Based Evidence under Controlled Prompt Structure. *arXiv preprint arXiv:2603.19426*. [[link]](https://arxiv.org/abs/2603.19426)
+- **Heidari, F., Memarian, A., & Rabusseau, G. (2026).** Evaluation Awareness in Language Models: Representation, Verbalization, and Control. *arXiv preprint arXiv:2608.21766*. [[link]](https://arxiv.org/abs/2608.21766)
 - **Knecht, A., Florin, L., & Hagendorff, T. (2026).** Evaluation Awareness in Language Models Has Limited Effect on Behaviour. *arXiv preprint arXiv:2605.05835*. [[link]](https://arxiv.org/abs/2605.05835)
 - **Li, C., et al. (2026).** Decomposing and Measuring Evaluation Awareness. *arXiv preprint arXiv:2605.23055*. [[link]](https://arxiv.org/abs/2605.23055)
 - **Nayan, N., et al. (2026).** Evaluation Awareness Is Not One Capability: Evidence from Open Language Models. *arXiv preprint arXiv:2606.23583*. [[link]](https://arxiv.org/abs/2606.23583)
+- **Xu, X. (2026).** The Oversight Gap: What LLM Safety Monitors Miss, and Why It Is Not Capability. *arXiv preprint arXiv:2609.07162*. [[link]](https://arxiv.org/abs/2609.07162)
 - **Ahmed, N., et al. (2025).** Do LLMs Know They Are Being Tested? Evaluation Awareness and Incentive-Sensitive Failures in GPT-OSS-20B. *arXiv preprint arXiv:2510.08624*. [[link]](https://arxiv.org/abs/2510.08624)
 - **Chaudhary, M., et al. (2025).** Evaluation Awareness Scales Predictably in Open-Weights Large Language Models. *arXiv preprint arXiv:2509.13333*. [[link]](https://arxiv.org/abs/2509.13333)
 - **Needham, J., Edkins, G., Pimpale, G., Bartsch, H., & Hobbhahn, M. (2025).** Large Language Models Often Know When They Are Being Evaluated. *arXiv preprint arXiv:2505.23836*. [[link]](https://doi.org/10.48550/arXiv.2505.23836)
@@ -221,7 +224,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Alemohammad, S., et al. (2023).** Self-Consuming Generative Models Go MAD. *NeurIPS 2023*. arXiv:2307.01850. [[link]](https://arxiv.org/abs/2307.01850)
 - **Zhang, M., Press, O., Merrill, W., Liu, A., & Smith, N. A. (2023).** How Language Model Hallucinations Can Snowball. *arXiv preprint arXiv:2305.13534*. ICML 2024. [[link]](https://arxiv.org/abs/2305.13534)
 
-*This list contains 147 entries across 12 categories.*
+*This list contains 150 entries across 12 categories.*
 
 
 ## Contributing
@@ -236,4 +239,4 @@ corrections, or category suggestions.
 
 ---
 
-*Last updated 2026-08-11. Generated from the maintainer's working bibliography.*
+*Last updated 2026-09-17. Generated from the maintainer's working bibliography.*
