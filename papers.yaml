@@ -117,6 +117,13 @@ categories:
     sections:
     - '2.1'
     url: https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2081282
+  - authors: GP-Lenza, G., Fernandez-Cortizas, M., Molina, M., Sanz, R., & Campoy, P.
+    year: 2026
+    title: A Taxonomy on Collective Awareness
+    citation_tail: '*arXiv preprint arXiv:2610.06427*'
+    arxiv_id: '2610.06427'
+    url: https://arxiv.org/abs/2610.06427
+    link_source: manual
 - name: AI Safety and SA
   papers:
   - authors: Shi, J., Zhang, T. J., Jin, Z., & Conitzer, V.

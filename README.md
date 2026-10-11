@@ -25,7 +25,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contents
 
-- [Foundational SA and Human Factors](#foundational-sa-and-human-factors) — 16
+- [Foundational SA and Human Factors](#foundational-sa-and-human-factors) — 17
 - [AI Safety and SA](#ai-safety-and-sa) — 20
 - [Evaluation Awareness](#evaluation-awareness) — 14
 - [Evaluation Methodology and Critique](#evaluation-methodology-and-critique) — 12
@@ -40,6 +40,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Foundational SA and Human Factors
 
+- **GP-Lenza, G., Fernandez-Cortizas, M., Molina, M., Sanz, R., & Campoy, P. (2026).** A Taxonomy on Collective Awareness. *arXiv preprint arXiv:2610.06427*. [[link]](https://arxiv.org/abs/2610.06427)
 - **Fang, R., et al. (2025).** A Systematic Review of Empirical Studies on Situation Awareness: Perspectives From the Interaction Among Humans, Machines, and the Task Environment. [[link]](https://pubmed.ncbi.nlm.nih.gov/40619647/)
 - **Endsley, M. R. (2023).** Supporting Human-AI Teams: Transparency, explainability, and situation awareness. *Computers in Human Behavior*, 140, 107574. [[link]](https://doi.org/10.1016/j.chb.2022.107574)
 - **Jiang, X., et al. (2022).** A Situation Awareness Perspective on Human-AI Interaction: Tensions and Opportunities. *International Journal of Human-Computer Interaction*. [[link]](https://www.tandfonline.com/doi/full/10.1080/10447318.2022.2093863)
@@ -227,7 +228,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Alemohammad, S., et al. (2023).** Self-Consuming Generative Models Go MAD. *NeurIPS 2023*. arXiv:2307.01850. [[link]](https://arxiv.org/abs/2307.01850)
 - **Zhang, M., Press, O., Merrill, W., Liu, A., & Smith, N. A. (2023).** How Language Model Hallucinations Can Snowball. *arXiv preprint arXiv:2305.13534*. ICML 2024. [[link]](https://arxiv.org/abs/2305.13534)
 
-*This list contains 153 entries across 12 categories.*
+*This list contains 154 entries across 12 categories.*
 
 
 ## Contributing
