@@ -27,8 +27,8 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [Foundational SA and Human Factors](#foundational-sa-and-human-factors) — 16
 - [AI Safety and SA](#ai-safety-and-sa) — 20
-- [Evaluation Awareness](#evaluation-awareness) — 12
-- [Evaluation Methodology and Critique](#evaluation-methodology-and-critique) — 11
+- [Evaluation Awareness](#evaluation-awareness) — 14
+- [Evaluation Methodology and Critique](#evaluation-methodology-and-critique) — 12
 - [Agentic AI, Failures, and Deployment](#agentic-ai-failures-and-deployment) — 10
 - [LLM Capability Evaluation](#llm-capability-evaluation) — 10
 - [Self-Knowledge, Introspection, and Metacognition](#self-knowledge-introspection-and-metacognition) — 30
@@ -82,9 +82,11 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Evaluation Awareness
 
+- **Anwar, U., Abdelnabi, S., & Krueger, D. (2026).** Training LLMs to Verbalize Evaluation Awareness. *arXiv preprint arXiv:2609.36316*. [[link]](https://arxiv.org/abs/2609.36316)
 - **Das, A., Ponde, J., More, M., & Gupta, D. (2026).** You Can't Escape Your Own Activations: Evaluation Awareness and Multi-Agent Monitoring. *arXiv preprint arXiv:2609.03035*. [[link]](https://arxiv.org/abs/2609.03035)
 - **Devbunova, V. (2026).** Is Evaluation Awareness Just Format Sensitivity? Limitations of Probe-Based Evidence under Controlled Prompt Structure. *arXiv preprint arXiv:2603.19426*. [[link]](https://arxiv.org/abs/2603.19426)
 - **Heidari, F., Memarian, A., & Rabusseau, G. (2026).** Evaluation Awareness in Language Models: Representation, Verbalization, and Control. *arXiv preprint arXiv:2608.21766*. [[link]](https://arxiv.org/abs/2608.21766)
+- **Keenan, H. L., Leckie, C., & Erfani, S. (2026).** LLMs Learn to Evade Latent Monitors from Prior Feedback Alone. *arXiv preprint arXiv:2609.36490*. [[link]](https://arxiv.org/abs/2609.36490)
 - **Knecht, A., Florin, L., & Hagendorff, T. (2026).** Evaluation Awareness in Language Models Has Limited Effect on Behaviour. *arXiv preprint arXiv:2605.05835*. [[link]](https://arxiv.org/abs/2605.05835)
 - **Li, C., et al. (2026).** Decomposing and Measuring Evaluation Awareness. *arXiv preprint arXiv:2605.23055*. [[link]](https://arxiv.org/abs/2605.23055)
 - **Nayan, N., et al. (2026).** Evaluation Awareness Is Not One Capability: Evidence from Open Language Models. *arXiv preprint arXiv:2606.23583*. [[link]](https://arxiv.org/abs/2606.23583)
@@ -99,6 +101,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - **Haklay, T., Prakash, N., Pandey, S., Torralba, A., & Mueller, A. (2026).** Pitfalls in Evaluating Interpretability Agents. *arXiv preprint arXiv:2603.20101*. [[link]](https://arxiv.org/abs/2603.20101)
 - **Khalifa, M., et al. (2026).** Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation. [[link]](https://arxiv.org/abs/2601.14691)
+- **Li, X., et al. (2026).** AwarenessBench: Assessing Cognitive Capabilities of Language Models. *arXiv preprint arXiv:2609.35409*. [[link]](https://arxiv.org/abs/2609.35409)
 - **Marthe Ballon, Andres Algaba, Brecht Verbeken, Vincent Ginis (2026).** Benchmarks Saturate When The Model Gets Smarter Than The Judge. [[link]](https://arxiv.org/abs/2601.19532)
 - **Gabriel Mukobi (2025).** Reasons to Doubt the Impact of AI Risk Evaluations. [[link]](https://arxiv.org/abs/2408.02565)
 - **Hou, G., Zhang, W., Shen, Y., et al. (2025).** EgoSocialArena: Benchmarking the Social Intelligence of Large Language Models from a First-person Perspective. *arXiv preprint arXiv:2410.06195*. [[link]](https://doi.org/10.48550/arXiv.2410.06195)
@@ -224,7 +227,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Alemohammad, S., et al. (2023).** Self-Consuming Generative Models Go MAD. *NeurIPS 2023*. arXiv:2307.01850. [[link]](https://arxiv.org/abs/2307.01850)
 - **Zhang, M., Press, O., Merrill, W., Liu, A., & Smith, N. A. (2023).** How Language Model Hallucinations Can Snowball. *arXiv preprint arXiv:2305.13534*. ICML 2024. [[link]](https://arxiv.org/abs/2305.13534)
 
-*This list contains 150 entries across 12 categories.*
+*This list contains 153 entries across 12 categories.*
 
 
 ## Contributing
@@ -239,4 +242,4 @@ corrections, or category suggestions.
 
 ---
 
-*Last updated 2026-09-17. Generated from the maintainer's working bibliography.*
+*Last updated 2026-10-12. Generated from the maintainer's working bibliography.*

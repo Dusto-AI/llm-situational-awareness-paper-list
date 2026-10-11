@@ -371,6 +371,20 @@ categories:
     arxiv_id: '2609.03035'
     url: https://arxiv.org/abs/2609.03035
     link_source: manual
+  - authors: Anwar, U., Abdelnabi, S., & Krueger, D.
+    year: 2026
+    title: Training LLMs to Verbalize Evaluation Awareness
+    citation_tail: '*arXiv preprint arXiv:2609.36316*'
+    arxiv_id: '2609.36316'
+    url: https://arxiv.org/abs/2609.36316
+    link_source: manual
+  - authors: Keenan, H. L., Leckie, C., & Erfani, S.
+    year: 2026
+    title: LLMs Learn to Evade Latent Monitors from Prior Feedback Alone
+    citation_tail: '*arXiv preprint arXiv:2609.36490*'
+    arxiv_id: '2609.36490'
+    url: https://arxiv.org/abs/2609.36490
+    link_source: manual
 - name: Evaluation Methodology and Critique
   papers:
   - authors: Haklay, T., Prakash, N., Pandey, S., Torralba, A., & Mueller, A.
@@ -460,6 +474,13 @@ categories:
     citation_tail: '*arXiv preprint arXiv:2507.23009*'
     arxiv_id: '2507.23009'
     url: https://arxiv.org/abs/2507.23009
+  - authors: Li, X., et al.
+    year: 2026
+    title: 'AwarenessBench: Assessing Cognitive Capabilities of Language Models'
+    citation_tail: '*arXiv preprint arXiv:2609.35409*'
+    arxiv_id: '2609.35409'
+    url: https://arxiv.org/abs/2609.35409
+    link_source: manual
 - name: Agentic AI, Failures, and Deployment
   papers:
   - authors: Wang, X. J., Bai, H., Sun, Y., Wang, H., Zhang, S., Hu, W., Schroder, M., Mutlu, B., Song, D., & Nowak, R. D.
